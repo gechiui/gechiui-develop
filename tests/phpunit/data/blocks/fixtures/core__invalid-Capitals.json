@@ -1,0 +1,12 @@
+[
+    {
+        "clientId": "_clientId_0",
+        "name": "core/freeform",
+        "isValid": true,
+        "attributes": {
+            "content": "<p><!-- gc:core/invalid-Capitals /--></p>"
+        },
+        "innerBlocks": [],
+        "originalContent": "<p><!-- gc:core/invalid-Capitals /--></p>"
+    }
+]

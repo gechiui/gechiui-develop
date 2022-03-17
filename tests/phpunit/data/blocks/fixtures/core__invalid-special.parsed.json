@@ -1,0 +1,11 @@
+[
+    {
+        "blockName": null,
+        "attrs": {},
+        "innerBlocks": [],
+        "innerHTML": "<!-- gc:core/invalid-$special /-->\n",
+        "innerContent": [
+            "<!-- gc:core/invalid-$special /-->\n"
+        ]
+    }
+]

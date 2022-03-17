@@ -1,0 +1,13 @@
+{
+	"core": "{GC_PATH}",
+	"mappings": {
+		"gc-content/mu-plugins": "{MU_PlUGINS_PATH}",
+		"gc-content/plugins/test-plugins": "{TEST_PlUGINS_PATH}"
+	},
+	"config": {
+		"SCRIPT_DEBUG": false,
+		"GC_PHP_BINARY": "php",
+		"GC_TESTS_EMAIL": "admin@example.org",
+		"GC_TESTS_TITLE": "Test Blog"
+	}
+}

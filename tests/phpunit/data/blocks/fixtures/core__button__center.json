@@ -1,0 +1,14 @@
+[
+    {
+        "clientId": "_clientId_0",
+        "name": "core/button",
+        "isValid": true,
+        "attributes": {
+            "url": "https://github.com/GeChiUI/gutenberg",
+            "text": "Help build Gutenberg",
+            "align": "center"
+        },
+        "innerBlocks": [],
+        "originalContent": "<div class=\"gc-block-button aligncenter\"><a class=\"gc-block-button__link\" href=\"https://github.com/GeChiUI/gutenberg\">Help build Gutenberg</a></div>"
+    }
+]

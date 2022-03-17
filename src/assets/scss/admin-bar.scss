@@ -1,0 +1,21 @@
+/*---------------------------------------------------------------------------
+  Template: gechiai.com - Admin Dashboard Template
+  Author: gongenlin
+----------------------------------------------------------------------------*/
+
+/*---------------------------------
+------- Mixins & Variables --------
+---------------------------------*/
+@import 'mixins'; //                           mixins
+@import 'variables'; //                        variables
+
+@import 'template/header'; //                  header
+
+@import 'common/utilities'; //                 utilities
+
+
+@import 'components/dropdown';//               dropdown
+
+@import 'ui-elements/avatar'; //               avatar
+@import 'ui-elements/icons'; //                icons
+@import 'ui-elements/anticon'; //              anticon

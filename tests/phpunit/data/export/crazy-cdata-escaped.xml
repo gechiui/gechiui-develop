@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://www.gechiui.com/export/1.1/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:gc="http://www.gechiui.com/export/1.1/"
+>
+<channel>
+	<gc:wxr_version>1.1</gc:wxr_version>
+	<gc:base_site_url>http://gc.dev</gc:base_site_url>
+	<item>
+		<title>Hello world!</title>
+		<link>http://example.org/?p=1</link>
+		<pubDate>Thu, 05 Jan 2012 14:30:46 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+		<guid isPermaLink="false">http://example.org/?p=1</guid>
+		<content:encoded><![CDATA[Content with nested <![CDATA[ tags ]]]]><![CDATA[> :)]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<gc:post_id>1</gc:post_id>
+		<gc:post_date>2012-01-05 14:30:46</gc:post_date>
+		<gc:post_date_gmt>2012-01-05 14:30:46</gc:post_date_gmt>
+		<gc:comment_status>open</gc:comment_status>
+		<gc:ping_status>open</gc:ping_status>
+		<gc:post_name>hello-world</gc:post_name>
+		<gc:status>publish</gc:status>
+		<gc:post_parent>0</gc:post_parent>
+		<gc:menu_order>0</gc:menu_order>
+		<gc:post_type>post</gc:post_type>
+		<gc:post_password></gc:post_password>
+		<gc:is_sticky>0</gc:is_sticky>
+		<gc:postmeta>
+			<gc:meta_key>Plain string</gc:meta_key>
+			<gc:meta_value><![CDATA[Foo]]></gc:meta_value>
+		</gc:postmeta>
+		<gc:postmeta>
+			<gc:meta_key>Closing CDATA</gc:meta_key>
+			<gc:meta_value><![CDATA[]]]]><![CDATA[>]]></gc:meta_value>
+		</gc:postmeta>
+		<gc:postmeta>
+			<gc:meta_key>Alot of CDATA</gc:meta_key>
+			<gc:meta_value><![CDATA[This has <![CDATA[ opening and ]]]]><![CDATA[> closing <![CDATA[ tags like this: ]]]]><![CDATA[>]]></gc:meta_value>
+		</gc:postmeta>
+	</item>
+</channel>
+</rss>

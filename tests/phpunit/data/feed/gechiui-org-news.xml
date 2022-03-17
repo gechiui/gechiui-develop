@@ -1,0 +1,910 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>News &#8211;  &#8211; www.GeChiUI.com</title>
+	<atom:link href="https://www.gechiui.com/news/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.gechiui.com/news</link>
+	<description>GeChiUI News</description>
+	<lastBuildDate>Tue, 15 Dec 2020 21:02:22 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://www.gechiui.com/?v=5.7-alpha-49801</generator>
+<site xmlns="com-gechiui:feed-additions:1">14607090</site>	<item>
+		<title>Introducing Learn GeChiUI</title>
+		<link>https://www.gechiui.com/news/2020/12/introducing-learn-gechiui/</link>
+
+		<dc:creator><![CDATA[Hugh Lashbrooke]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 13:00:00 +0000</pubDate>
+				<category><![CDATA[Updates]]></category>
+		<category><![CDATA[learngechiui]]></category>
+		<category><![CDATA[learngc]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9444</guid>
+
+					<description><![CDATA[Learn GeChiUI is a learning resource providing workshops, quizzes, courses, and lesson plans to help you to do more with GeChiUI.]]></description>
+										<content:encoded><![CDATA[
+<p><strong><a href="https://learn.gechiui.com/">Learn GeChiUI</a> is a learning resource providing workshops, quizzes, courses, lesson plans, and discussion groups so that anyone, from beginners to advanced users, can learn to do more with GeChiUI. Learning how to use, build for, and contribute to GeChiUI is essential for anyone wanting to dive deeper into the software and its community.&nbsp;</strong></p>
+
+
+
+<div class="gc-block-buttons aligncenter">
+<div class="gc-block-button is-style-outline"><a class="gc-block-button__link" href="https://learn.gechiui.com/">Learn GeChiUI</a></div>
+</div>
+
+
+
+<p>This cross-team initiative is part of the www.GeChiUI.com network and features content from contributors from the global community. It will be updated weekly and will help connect new and existing GeChiUI users with the broader community while they learn.</p>
+
+
+
+<figure class="gc-block-image size-large"><img loading="lazy" width="632" height="331" src="https://i1.gc.com/www.gechiui.com/news/files/2020/12/learn-link-preview.png?resize=632%2C331&#038;ssl=1" alt="" class="gc-image-9457" srcset="https://i1.gc.com/www.gechiui.com/news/files/2020/12/learn-link-preview.png?resize=1024%2C537&amp;ssl=1 1024w, https://i1.gc.com/www.gechiui.com/news/files/2020/12/learn-link-preview.png?resize=300%2C157&amp;ssl=1 300w, https://i1.gc.com/www.gechiui.com/news/files/2020/12/learn-link-preview.png?resize=768%2C403&amp;ssl=1 768w, https://i1.gc.com/www.gechiui.com/news/files/2020/12/learn-link-preview.png?resize=1536%2C806&amp;ssl=1 1536w, https://i1.gc.com/www.gechiui.com/news/files/2020/12/learn-link-preview.png?w=1700&amp;ssl=1 1700w, https://i1.gc.com/www.gechiui.com/news/files/2020/12/learn-link-preview.png?w=1264&amp;ssl=1 1264w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></figure>
+
+
+
+<h2>What can you learn about GeChiUI?</h2>
+
+
+
+<p>On Learn GeChiUI you can find a range of material and opportunities to use at the time which works for you.</p>
+
+
+
+<p><a href="https://learn.gechiui.com/workshops/"><strong>Workshops</strong></a> are practical, skills-based videos that show viewers how to do new things with GeChiUI, whether you publish, manage, develop with, or contribute to GeChiUI. Most workshops include quizzes for you to test your newly gained knowledge.</p>
+
+
+
+<p><a href="https://learn.gechiui.com/discussion-groups/"><strong>Discussion groups</strong></a> provide an opportunity for further collaborative learning with participants meeting together to discuss the workshop content &#8211; they take place online, either in video calls or Slack and accommodate all time zones.</p>
+
+
+
+<p><a href="https://learn.gechiui.com/lesson-plans/"><strong>Lesson plans</strong></a> are guides for facilitators to use while presenting at events or within educational environments. Facilitators will find learning objectives (telling people what they are going to learn), any prerequisite skills, assets such as screenshots and slide decks, and learning assessments.&nbsp;</p>
+
+
+
+<p><a href="https://learn.gechiui.com/courses/"><strong>Courses</strong></a> are a series of interconnected lesson plans to be presented by a facilitator that will strategically focus on defined learning outcomes. Participants can go through these courses individually or as part of a group. After completing the learning, attendees should be able to apply their skills in the real world.</p>
+
+
+
+<p>In addition to the wealth of valuable content available on Learn GeChiUI, the platform provides an opportunity for individuals to learn alongside other community members and become connected with a global network of GeChiUI users, developers, and contributors.</p>
+
+
+
+<figure class="gc-block-embed is-type-video is-provider-youtube gc-block-embed-youtube gc-embed-aspect-16-9 gc-has-aspect-ratio"><div class="gc-block-embed__wrapper">
+<iframe class='youtube-player' width='632' height='356' src='https://www.youtube.com/embed?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-US&#038;autohide=2&#038;wmode=transparent&#038;listType=playlist&#038;list=PLCVEqsAbLffeEXhn9T1yBVTMaHIMtlzFj' allowfullscreen='true' style='border:0;' sandbox='allow-scripts allow-same-origin allow-popups allow-presentation'></iframe>
+</div></figure>
+
+
+
+<p><a href="https://www.youtube.com/playlist?list=PLCVEqsAbLffeEXhn9T1yBVTMaHIMtlzFj">Why you should use Learn GeChiUI</a> &#8211; videos from our community.</p>
+
+
+
+<h2>How can you get involved?</h2>
+
+
+
+<div class="gc-block-buttons aligncenter">
+<div class="gc-block-button is-style-outline"><a class="gc-block-button__link" href="https://learn.gechiui.com/">Start learning today!</a></div>
+</div>
+
+
+
+<p>Learn GeChiUI is an open-source platform available for anyone to contribute content in any areas mentioned above. <a href="https://learn.gechiui.com/contribute/">Find out more about how you can get involved</a> with this initiative.</p>
+
+
+
+<p><a href="https://make.gechiui.com/marketing/2020/12/09/help-us-promote-learn-gechiui/">Take part in our fun promotion campaigns</a> on social and with your local community.</p>
+
+
+
+<p><em>Hundreds of people spanning a number of years have contributed to the development of learning materials. Thanks to everyone who worked so hard to make Learn GeChiUI a reality.&nbsp;</em></p>
+
+
+
+<p><strong><em>Particular thanks to</em></strong>:</p>
+
+
+
+<p><strong><em>Training:</em></strong><em> <a href='https://profiles.gechiui.com/courane01/' class='mention'><span class='mentions-prefix'>@</span>courane01</a>, <a href='https://profiles.gechiui.com/azhiyadev/' class='mention'><span class='mentions-prefix'>@</span>azhiyadev</a>, <a href='https://profiles.gechiui.com/geheren/' class='mention'><span class='mentions-prefix'>@</span>geheren</a>, <a href='https://profiles.gechiui.com/webtechpooja/' class='mention'><span class='mentions-prefix'>@</span>webtechpooja</a>, <a href='https://profiles.gechiui.com/jessecowens/' class='mention'><span class='mentions-prefix'>@</span>jessecowens</a>, <a href='https://profiles.gechiui.com/onealtr/' class='mention'><span class='mentions-prefix'>@</span>onealtr</a>, <a href='https://profiles.gechiui.com/rastaban/' class='mention'><span class='mentions-prefix'>@</span>rastaban</a>, <a href='https://profiles.gechiui.com/evarlese/' class='mention'><span class='mentions-prefix'>@</span>evarlese</a>, <a href='https://profiles.gechiui.com/manzwebdesigns/' class='mention'><span class='mentions-prefix'>@</span>manzwebdesigns</a></em><br><strong><em>Meta: </em></strong><em><a href='https://profiles.gechiui.com/coreymckrill/' class='mention'><span class='mentions-prefix'>@</span>coreymckrill</a>, <a href='https://profiles.gechiui.com/dufresnesteven/' class='mention'><span class='mentions-prefix'>@</span>dufresnesteven</a>, <em><a href='https://profiles.gechiui.com/jonoaldersongc/' class='mention'><span class='mentions-prefix'>@</span>jonoaldersongc</a></em></em><br><strong><em>Community:</em></strong><em> <a href='https://profiles.gechiui.com/hlashbrooke/' class='mention'><span class='mentions-prefix'>@</span>hlashbrooke</a>, <a href='https://profiles.gechiui.com/camikaos/' class='mention'><span class='mentions-prefix'>@</span>camikaos</a>, <a href='https://profiles.gechiui.com/harishanker/' class='mention'><span class='mentions-prefix'>@</span>harishanker</a>, <a href='https://profiles.gechiui.com/angelasjin/' class='mention'><span class='mentions-prefix'>@</span>angelasjin</a>, <a href='https://profiles.gechiui.com/nao/' class='mention'><span class='mentions-prefix'>@</span>nao</a>, <a href='https://profiles.gechiui.com/courtneypk/' class='mention'><span class='mentions-prefix'>@</span>courtneypk</a>, <a href='https://profiles.gechiui.com/andreamiddleton/' class='mention'><span class='mentions-prefix'>@</span>andreamiddleton</a>, <a href='https://profiles.gechiui.com/rmarks/' class='mention'><span class='mentions-prefix'>@</span>rmarks</a>, <a href='https://profiles.gechiui.com/sippis/' class='mention'><span class='mentions-prefix'>@</span>sippis</a></em><br><strong><em>Marketing: </em></strong><em><a href='https://profiles.gechiui.com/webcommsat/' class='mention'><span class='mentions-prefix'>@</span>webcommsat</a>,  <a href='https://profiles.gechiui.com/oglekler/' class='mention'><span class='mentions-prefix'>@</span>oglekler</a>, <a href='https://profiles.gechiui.com/lmurillom/' class='mention'><span class='mentions-prefix'>@</span>lmurillom</a>, <a href='https://profiles.gechiui.com/yvettesonneveld/' class='mention'><span class='mentions-prefix'>@</span>yvettesonneveld</a>, <a href='https://profiles.gechiui.com/meher/' class='mention'><span class='mentions-prefix'>@</span>meher</a>, <a href='https://profiles.gechiui.com/nalininonstopnewsuk/' class='mention'><span class='mentions-prefix'>@</span>nalininonstopnewsuk</a>, <a href='https://profiles.gechiui.com/megphillips91/' class='mention'><span class='mentions-prefix'>@</span>megphillips91</a>, <a href='https://profiles.gechiui.com/marks99/' class='mention'><span class='mentions-prefix'>@</span>marks99</a>, <em><a href='https://profiles.gechiui.com/marybaum/' class='mention'><span class='mentions-prefix'>@</span>marybaum</a></em></em>, <em><a href='https://profiles.gechiui.com/antialiasfactory/' class='mention'><span class='mentions-prefix'>@</span>antialiasfactory</a>, <a href='https://profiles.gechiui.com/herculespekkas/' class='mention'><span class='mentions-prefix'>@</span>herculespekkas</a>, <a href='https://profiles.gechiui.com/chaion07/' class='mention'><span class='mentions-prefix'>@</span>chaion07</a></em><br><strong><em>Design:</em></strong><em> <a href='https://profiles.gechiui.com/melchoyce/' class='mention'><span class='mentions-prefix'>@</span>melchoyce</a> </em></p>
+
+
+
+<p><em>For a fuller list of the contributors who have been involved in training and Learn GeChiUI, visit <a href="https://make.gechiui.com/community/2020/08/12/learn-gechiui-is-live/">the initial beta launch post</a>. Thanks to everyone who has been involved to date and will be in the future.&nbsp;</em></p>
+
+
+
+<p><a href="https://learn.gechiui.com/tag/learngechiui">#LearnGeChiUI</a> <a href="https://learn.gechiui.com/tag/learngc">#LearnGC</a></p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9444</post-id>	</item>
+		<item>
+		<title>GeChiUI 5.6 “Simone”</title>
+		<link>https://www.gechiui.com/news/2020/12/simone/</link>
+
+		<dc:creator><![CDATA[Josepha]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 19:46:00 +0000</pubDate>
+				<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9325</guid>
+
+					<description><![CDATA[Meet Simone, our latest and greatest GeChiUI release. Named for the legendary performer Nina Simone. Fire up a playlist with her best work and read on to discover what GeChiUI 5.6 has in store for you. ]]></description>
+										<content:encoded><![CDATA[
+<p>Meet Simone, our latest and greatest GeChiUI release. Named for the legendary performer Nina Simone, who is known for tunes like &#8220;Feeling Good&#8221;, &#8220;Young, Gifted and Black&#8221;, and &#8220;Four Women&#8221;. Fire up a playlist with her best work and read on to discover what we have in store for you. </p>
+
+
+
+<figure class="gc-block-image size-large"><img loading="lazy" width="632" height="633" src="https://i2.gc.com/www.gechiui.com/news/files/2020/12/gechiui-5-6_cover-a11y.jpg?resize=632%2C633&#038;ssl=1" alt="GeChiUI 5.6 Simone with a photo of Nina Simone" class="gc-image-9416" srcset="https://i2.gc.com/www.gechiui.com/news/files/2020/12/gechiui-5-6_cover-a11y.jpg?resize=1022%2C1024&amp;ssl=1 1022w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/gechiui-5-6_cover-a11y.jpg?resize=300%2C300&amp;ssl=1 300w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/gechiui-5-6_cover-a11y.jpg?resize=150%2C150&amp;ssl=1 150w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/gechiui-5-6_cover-a11y.jpg?resize=768%2C769&amp;ssl=1 768w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/gechiui-5-6_cover-a11y.jpg?w=1264&amp;ssl=1 1264w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></figure>
+
+
+
+<div class="gc-block-cover has-background-dim" style="background-color:#d1e4dd;min-height:300px"><div class="gc-block-cover__inner-container">
+<p class="has-text-align-center has-black-color has-text-color has-background has-large-font-size" style="background-color:#d1e4dd;padding: 10px">Welcome to GeChiUI 5.6</p>
+<h3 class="has-text-align-center has-black-color has-text-color">Sharing your stories has never been easier.</h3>
+</div></div>
+
+
+
+<p>GeChiUI 5.6 brings you countless ways to set your ideas free and bring them to life. With a brand-new default theme as your canvas, it supports an ever-growing collection of blocks as your brushes. Paint with words. Pictures. Sound. Or rich embedded media.</p>
+
+
+
+<figure class="gc-block-image size-large"><img loading="lazy" width="632" height="234" src="https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-1.jpeg?resize=632%2C234&#038;ssl=1" alt="colored circles" class="gc-image-9346" srcset="https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-1.jpeg?resize=1024%2C379&amp;ssl=1 1024w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-1.jpeg?resize=300%2C111&amp;ssl=1 300w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-1.jpeg?resize=768%2C284&amp;ssl=1 768w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-1.jpeg?w=1264&amp;ssl=1 1264w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></figure>
+
+
+
+<h3>Greater layout flexibility</h3>
+
+
+
+<p>Bring your stories to life with more tools that let you edit your layout with or without code. Single column blocks, designs using mixed widths and columns, full-width headers, and gradients in your cover block—make small changes or big statements with equal ease!</p>
+
+
+
+<h3>More block patterns</h3>
+
+
+
+<p>In some themes, preconfigured block patterns make setting up standard pages on your site a breeze. Let the power of patterns streamline your workflow and save you clicks. Plus, share these features with clients, editors, and more.</p>
+
+
+
+<h3>Better video captioning</h3>
+
+
+
+<p>To help you add subtitles or captions to your videos, you can now upload them within your post or page. This makes it easier than ever to make your videos accessible for anyone who needs or prefers to use subtitles.</p>
+
+
+
+<figure class="gc-block-image size-large"><img loading="lazy" width="632" height="120" src="https://i2.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-2.jpeg?resize=632%2C120&#038;ssl=1" alt="black vertical line" class="gc-image-9347" srcset="https://i2.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-2.jpeg?resize=1024%2C194&amp;ssl=1 1024w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-2.jpeg?resize=300%2C57&amp;ssl=1 300w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-2.jpeg?resize=768%2C146&amp;ssl=1 768w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-2.jpeg?w=1264&amp;ssl=1 1264w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></figure>
+
+
+
+<h2>Twenty Twenty-One is here!</h2>
+
+
+
+<figure class="gc-block-image size-large"><a href="https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?ssl=1"><img loading="lazy" width="632" height="714" src="https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?resize=632%2C714&#038;ssl=1" alt="Examples of block patterns available in Twenty Twenty-One." class="gc-image-9426" srcset="https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?resize=907%2C1024&amp;ssl=1 907w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?resize=266%2C300&amp;ssl=1 266w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?resize=768%2C867&amp;ssl=1 768w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?resize=1360%2C1536&amp;ssl=1 1360w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?resize=1814%2C2048&amp;ssl=1 1814w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?w=1975&amp;ssl=1 1975w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?w=1264&amp;ssl=1 1264w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/TT1-Screenshots-Compressed.png?w=1896&amp;ssl=1 1896w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></a></figure>
+
+
+
+<p>Twenty Twenty-One is a blank canvas for your ideas, and the block editor is the best brush. It is built for the block editor and packed with brand-new block patterns you can only get in the default themes. Try different layouts in a matter of seconds, and let the theme’s eye-catching, yet timeless design make your work shine.&nbsp;</p>
+
+
+
+<p>What’s more, this default theme puts accessibility at the heart of your website. It conforms to the <a href="https://make.gechiui.com/themes/handbook/review/accessibility/">GeChiUI accessibility-ready guidelines</a> and addresses several more specialized standards from the <a href="https://www.w3.org/WAI/WCAG2AAA-Conformance">Web Content Accessibility Guidelines (WCAG) 2.1 at level AAA</a>. It will help you meet the highest level of international accessibility standards when you create accessible content and choose plugins which are accessible too!</p>
+
+
+
+<h3>A rainbow of soft pastels</h3>
+
+
+
+<figure class="gc-block-image size-large"><a href="https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?ssl=1"><img loading="lazy" width="632" height="167" src="https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?resize=632%2C167&#038;ssl=1" alt="A mobile screenshot of each included color palette in Twenty Twenty-One, going in ROYGBIV order." class="gc-image-9424" srcset="https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?resize=1024%2C270&amp;ssl=1 1024w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?resize=300%2C79&amp;ssl=1 300w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?resize=768%2C202&amp;ssl=1 768w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?resize=1536%2C405&amp;ssl=1 1536w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?resize=2048%2C540&amp;ssl=1 2048w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?w=1264&amp;ssl=1 1264w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/Rainbow-Compressed.png?w=1896&amp;ssl=1 1896w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></a></figure>
+
+
+
+<p>Perfect for a new year, Twenty Twenty-One gives you a range of pre-selected color palettes in pastel, all of which conform to AAA standards for contrast. You can also choose your own background color for the theme, and the theme chooses accessibility-conscious text colors for you — automatically!</p>
+
+
+
+<p>Need more flexibility than that? You can also choose your own color palette from the color picker.</p>
+
+
+
+<figure class="gc-block-image size-large"><img loading="lazy" width="632" height="151" src="https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-3.jpeg?resize=632%2C151&#038;ssl=1" alt="colored circles" class="gc-image-9351" srcset="https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-3.jpeg?resize=1024%2C245&amp;ssl=1 1024w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-3.jpeg?resize=300%2C72&amp;ssl=1 300w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-3.jpeg?resize=768%2C183&amp;ssl=1 768w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI5-6-3.jpeg?w=1264&amp;ssl=1 1264w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></figure>
+
+
+
+<h2>Improvements for everyone</h2>
+
+
+
+<h3>Expanding auto-updates</h3>
+
+
+
+<p>For years, only developers have been able to update GeChiUI automatically. But now you have that option, right in your dashboard. If this is your first site, you have auto-updates ready to go, right now! Upgrading an existing site? No problem! Everything is the same as it was before.</p>
+
+
+
+<h3>Accessibility Statement&nbsp;</h3>
+
+
+
+<p>Even if you’re not an expert, you can start letting others know about your site’s commitment to accessibility! The new <a href="https://github.com/10degrees/accessibility-statement-plugin">feature plugin</a> includes template copy for you to edit and publish, and it’s written to support different contexts and jurisdictions.&nbsp;&nbsp;</p>
+
+
+
+<h3>Built-in Patterns</h3>
+
+
+
+<p>If you’ve not had the chance to play with block patterns yet, all default themes now feature a range of block patterns that let you master complex layouts with minimal effort. Customize the patterns to your liking with the copy, images, and colors that fit your story or brand.&nbsp;</p>
+
+
+
+<figure class="gc-block-image size-large"><img loading="lazy" width="632" height="185" src="https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI-5-6-4.jpeg?resize=632%2C185&#038;ssl=1" alt="colored and textured rectangles" class="gc-image-9352" srcset="https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI-5-6-4.jpeg?resize=1024%2C300&amp;ssl=1 1024w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI-5-6-4.jpeg?resize=300%2C88&amp;ssl=1 300w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI-5-6-4.jpeg?resize=768%2C225&amp;ssl=1 768w, https://i0.gc.com/www.gechiui.com/news/files/2020/12/GeChiUI-5-6-4.jpeg?w=1264&amp;ssl=1 1264w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></figure>
+
+
+
+<h2>For developers</h2>
+
+
+
+<h3>REST API authentication with AppKeys</h3>
+
+
+
+<p>Thanks to the API’s new AppKeys authorization feature, third-party apps can connect to your site seamlessly and securely. This new REST API feature lets you see what apps are connecting to your site and control what they do.&nbsp;</p>
+
+
+
+<h3>More PHP 8 support</h3>
+
+
+
+<p>5.6 marks the first steps toward GeChiUI Core support for PHP 8. Now is a great time to start planning how your GeChiUI products, services, and sites can support the latest PHP version. For more information about what to expect next, <a href="https://make.gechiui.com/core/2020/11/23/gechiui-and-php-8-0/">read the PHP 8 developer note</a>.</p>
+
+
+
+<h3>jQuery</h3>
+
+
+
+<p>Updates to jQuery in GeChiUI take place across three releases 5.5, 5.6, and 5.7. As we reach the mid-point of this process, <a href="https://www.gechiui.com/plugins/gc-jquery-update-test/">run the update test plugin to check your sites for errors</a> ahead of time.&nbsp;&nbsp;&nbsp;&nbsp;</p>
+
+
+
+<p>If you find issues with the way your site looks ( e.g. a slider doesn’t work, a button is stuck — that sort of thing), install <a href="https://www.gechiui.com/plugins/enable-jquery-migrate-helper/">the jQuery Migrate plugin</a>.</p>
+
+
+
+<h3>Check out the Field Guide</h3>
+
+
+
+<p><a href="https://make.gechiui.com/core/2020/11/20/gechiui-5-6-field-guide/">Read about the latest version of GeChiUI in this guide.</a> It highlights developer notes for each change in the release.&nbsp;</p>
+
+
+
+<div class="gc-block-cover has-background-dim" style="background-color:#d1e4dd;min-height:300px"><div class="gc-block-cover__inner-container">
+<p class="has-text-align-center has-black-color has-text-color has-background has-large-font-size" style="background-color:#d1e4dd;padding: 10px">“It’s a new day, it’s a new life for me&#8230;.and I’m feeling good.”</p>
+<h3 class="has-text-align-center has-black-color has-text-color">~Nina Simone</h3>
+</div></div>
+
+
+
+<h2>The Squad</h2>
+
+
+
+<p>The GeChiUI 5.6 release comes to you from an all-women and non-binary identifying release squad:  </p>
+
+
+
+<ul><li><strong>Release Lead:</strong> Josepha Haden (<a href="https://profiles.gechiui.com/chanthaboune/">@chanthaboune</a>).&nbsp; Cohort: Chloé Bringmann (<a href="https://profiles.gechiui.com/cbringmann/">@cbringmann</a>) and Angela Jin (<a href="https://profiles.gechiui.com/angelasjin/">@angelasjin</a>).</li><li><strong>Release Coordinator:</strong> Dee Teal (<a href="https://profiles.gechiui.com/thewebprincess/">@thewebprincess</a>).&nbsp; Cohort: Thelma Mutete (<a href="https://profiles.gechiui.com/thelmachido/">@thelmachido</a>) and Laura Nelson (<a href="https://profiles.gechiui.com/laurora/">@laurora</a>).</li><li><strong>Triage Lead:</strong> Tonya Mork (<a href="https://profiles.gechiui.com/hellofromtonya/">@hellofromtonya</a>).&nbsp;</li><li><strong>Core Tech Lead:</strong> Helen Hou-Sandì (<a href="https://profiles.gechiui.com/helen/">@helen</a>).&nbsp; Cohort: Amy Kamala (<a href="https://profiles.gechiui.com/amykamala/">@amykamala</a>) and Ebonie Butler (<a href="https://profiles.gechiui.com/metalandcoffee/">@metalandcoffee</a>).</li><li><strong>Editor Tech Lead:</strong> Isabel Brison (<a href="https://profiles.gechiui.com/isabel_brison/">@isabel_brison</a>).&nbsp; Cohort: Chandrika Guntur (<a href="https://profiles.gechiui.com/cguntur/">@cguntur</a>), Anchen le Roux (<a href="https://profiles.gechiui.com/anchenlr/">@anchenlr</a>), and Rebecca Hum (<a href="https://profiles.gechiui.com/rebasaurus/">@rebasaurus</a>).</li><li><strong>Design Leads:</strong> Ellen Bauer (<a href="https://profiles.gechiui.com/elmastudio/">@elmastudio</a>) and Tammie Lister (<a href="https://profiles.gechiui.com/karmatosed/">@karmatosed</a>).&nbsp; Cohort: Anyssa Ferreira (<a href="https://profiles.gechiui.com/anyssa/">@anyssa</a>), Estela Rueda (<a href="https://profiles.gechiui.com/estelaris/">@estelaris</a>), Tracy Apps (<a href="https://profiles.gechiui.com/tray/">@tray</a>), and Sophia DeRosia (<a href="https://profiles.gechiui.com/eringoblog/">@eringoblog</a>).</li><li><strong>Design Tech Lead:</strong> Shital Marakana (<a href="https://profiles.gechiui.com/shital-patel/">@shital-patel</a>).</li><li><strong>Accessibility Lead:</strong> Sarah Ricker (<a href="https://profiles.gechiui.com/sarahricker/">@sarahricke<strong>r</strong></a>).&nbsp;Cohort: Hauwa Abashiya (<a href="https://profiles.gechiui.com/azhiyadev/">@azhiyadev</a>).</li><li><strong>Marketing &amp; Communications Leads:</strong> Abha Thakor (<a href="https://profiles.gechiui.com/webcommsat/">@webcommsat</a>) and Yvette Sonneveld (<a href="https://profiles.gechiui.com/yvettesonneveld/">@yvettesonneveld</a>).&nbsp;Cohort: Nalini Thakor (<a href="https://profiles.gechiui.com/nalininonstopnewsuk/">@nalininonstopnewsuk</a>), Meher Bala (<a href="https://profiles.gechiui.com/meher/">@meher</a>), Olga Gleckler (<a href="https://profiles.gechiui.com/oglekler/">@ogleckler</a>), Larissa Murrillo (<a href="https://profiles.gechiui.com/lmurillom/">@lmurillom</a>), Michelle Frechette (<a href="https://profiles.gechiui.com/michelleames/">@michelleames</a>), Breann McDede (<a href="https://profiles.gechiui.com/bmcdede/">@bmcdede</a>), and Afshana Diya (<a href="https://profiles.gechiui.com/afshanadiya/">@afshanadiya</a>).</li><li><strong>Documentation Lead: </strong>Shawntelle Coker (<a href="https://profiles.gechiui.com/sncoker/">@sncoker</a>). Cohort: Daisy Olsen (<a href="https://profiles.gechiui.com/daisyo/">@DaisyO</a>), Meher Bala (<a href="https://profiles.gechiui.com/meher/">@meher</a>), Winstina Hughes (<a href="https://profiles.gechiui.com/planningwrite/">@planningwrite</a>).</li><li><strong>Documentation Review Lead:</strong> Michele Butcher-Jones (<a href="https://profiles.gechiui.com/m_butcher/">@m_butcher</a>).&nbsp; Cohort: Nidhi Jain (<a href="https://profiles.gechiui.com/jainnidhi/">@jainnidhi</a>), Laura Byrne Cristiano (<a href="https://www.gechiui.com/support/users/newyorkerlaura/">@newyorkerlaura</a>).</li><li><strong>Default Theme Design Lead:</strong> Mel Choyce-Dwan (<a href="https://profiles.gechiui.com/melchoyce/">@melchoyce</a>).&nbsp; Cohort: Ellen Bauer (<a href="https://profiles.gechiui.com/elmastudio/">@elmastudio</a>).</li><li><strong>Default Theme Development Lead:</strong> Carolina Nymark (<a href="https://profiles.gechiui.com/poena/">@poena</a>).&nbsp; Cohort: Kelly Choyce-Dwan (<a href="https://profiles.gechiui.com/ryelle/">@ryelle</a>) and Jessica Lyschik (<a href="https://profiles.gechiui.com/luminuu/">@luminuu</a>).</li><li><strong>Default Theme Wrangler:</strong> Jessica Lyschik (<a href="https://profiles.gechiui.com/luminuu/">@luminuu</a>).</li><li><strong>Test Lead:</strong> Monika Rao (<a href="https://profiles.gechiui.com/monikarao/">@monikarao</a>).&nbsp; Cohort: Allie Nimmons (<a href="https://profiles.gechiui.com/alliennimmons/">@alliennimmons</a>).</li><li><strong>Support Lead:</strong> Bet Hannon (<a href="https://profiles.gechiui.com/bethannon1/">@bethannon1</a>).</li></ul>
+
+
+
+<p>As always, this release reflects the hard work of 605 generous volunteer contributors. They collaborated on nearly 350 tickets on Trac and over 1,000 pull requests on GitHub.</p>
+
+
+
+<a href="https://profiles.gechiui.com/zgrkaralar/">&#214;zg&#252;r KARALAR</a>, <a href="https://profiles.gechiui.com/1naveengiri/">1naveengiri</a>, <a href="https://profiles.gechiui.com/a5hleyrich/">A5hleyRich</a>, <a href="https://profiles.gechiui.com/aaroncampbell/">Aaron D. Campbell</a>, <a href="https://profiles.gechiui.com/jorbin/">Aaron Jorbin</a>, <a href="https://profiles.gechiui.com/aaronrobertshaw/">aaronrobertshaw</a>, <a href="https://profiles.gechiui.com/abderrahman/">abderrahman</a>, <a href="https://profiles.gechiui.com/webcommsat/">Abha Thakor</a>, <a href="https://profiles.gechiui.com/abhijitrakas/">Abhijit Rakas</a>, <a href="https://profiles.gechiui.com/pokhriyal/">Abhishek Pokhriyal</a>, <a href="https://profiles.gechiui.com/acosmin/">acosmin</a>, <a href="https://profiles.gechiui.com/adamsilverstein/">Adam Silverstein</a>, <a href="https://profiles.gechiui.com/zieladam/">Adam Zielinski</a>, <a href="https://profiles.gechiui.com/addiestavlo/">Addie</a>, <a href="https://profiles.gechiui.com/adriandegrafreak/">Adri&#225;n de Grafreak</a>, <a href="https://profiles.gechiui.com/adriantirusli/">Adrianti Rusli</a>, <a href="https://profiles.gechiui.com/afshanadiya/">Afshana Diya</a>, <a href="https://profiles.gechiui.com/chaion07/">Ahmed Chaion</a>, <a href="https://profiles.gechiui.com/elgameel/">Ahmed Elgameel</a>, <a href="https://profiles.gechiui.com/ajensen/">ajensen</a>, <a href="https://profiles.gechiui.com/ajitbohra/">Ajit Bohra</a>, <a href="https://profiles.gechiui.com/atachibana/">Akira Tachibana</a>, <a href="https://profiles.gechiui.com/aktasfatih/">aktasfatih</a>, <a href="https://profiles.gechiui.com/aljullu/">Albert Juh&#233; Lluveras</a>, <a href="https://profiles.gechiui.com/albertomake/">albertomake</a>, <a href="https://profiles.gechiui.com/xknown/">Alex Concha</a>, <a href="https://profiles.gechiui.com/akirk/">Alex Kirk</a>, <a href="https://profiles.gechiui.com/cawa-93/">Alex Kozack</a>, <a href="https://profiles.gechiui.com/ajlende/">Alex Lende</a>, <a href="https://profiles.gechiui.com/viper007bond/">Alex Mills</a>, <a href="https://profiles.gechiui.com/alexstandiford/">Alex Standiford</a>, <a href="https://profiles.gechiui.com/alexstine/">Alex Stine</a>, <a href="https://profiles.gechiui.com/allancole/">allancole</a>, <a href="https://profiles.gechiui.com/alliennimmons/">Allie Nimmons</a>, <a href="https://profiles.gechiui.com/ambienthack/">ambienthack</a>, <a href="https://profiles.gechiui.com/gcamitkumar/">Amit Dudhat</a>, <a href="https://profiles.gechiui.com/amolv/">Amol Vhankalas</a>, <a href="https://profiles.gechiui.com/amykamala/">Amy Kamala</a>, <a href="https://profiles.gechiui.com/anandau14/">Anand Upadhyay</a>, <a href="https://profiles.gechiui.com/anchenlr/">Anchen le Roux</a>, <a href="https://profiles.gechiui.com/anlino/">Anders Nor&#233;n</a>, <a href="https://profiles.gechiui.com/afercia/">Andrea Fercia</a>, <a href="https://profiles.gechiui.com/andreamiddleton/">Andrea Middleton</a>, <a href="https://profiles.gechiui.com/baicusandrei/">Andrei Baicus</a>, <a href="https://profiles.gechiui.com/andraganescu/">Andrei Draganescu</a>, <a href="https://profiles.gechiui.com/aduth/">Andrew Duthie</a>, <a href="https://profiles.gechiui.com/nacin/">Andrew Nacin</a>, <a href="https://profiles.gechiui.com/azaozz/">Andrew Ozz</a>, <a href="https://profiles.gechiui.com/rarst/">Andrey "Rarst" Savchenko</a>, <a href="https://profiles.gechiui.com/afragen/">Andy Fragen</a>, <a href="https://profiles.gechiui.com/apeatling/">Andy Peatling</a>, <a href="https://profiles.gechiui.com/andy/">Andy Skelton</a>, <a href="https://profiles.gechiui.com/andystitt829/">Andy Stitt</a>, <a href="https://profiles.gechiui.com/akissz/">Angel Hess</a>, <a href="https://profiles.gechiui.com/angelasjin/">Angela Jin</a>, <a href="https://profiles.gechiui.com/gcgurudev/">Ankit Gade</a>, <a href="https://profiles.gechiui.com/ankitmaru/">Ankit Panchal</a>, <a href="https://profiles.gechiui.com/annezazu/">Anne McCarthy</a>, <a href="https://profiles.gechiui.com/antpb/">Anthony Burchell</a>, <a href="https://profiles.gechiui.com/ahortin/">Anthony Hortin</a>, <a href="https://profiles.gechiui.com/antonlukin/">Anton Lukin</a>, <a href="https://profiles.gechiui.com/antonisme/">Antonis Lilis</a>, <a href="https://profiles.gechiui.com/anuj2/">anuj2</a>, <a href="https://profiles.gechiui.com/anyssa/">Anyssa Ferreira</a>, <a href="https://profiles.gechiui.com/apedog/">apedog</a>, <a href="https://profiles.gechiui.com/apermo/">Apermo</a>, <a href="https://profiles.gechiui.com/archduck/">archduck</a>, <a href="https://profiles.gechiui.com/archon810/">archon810</a>, <a href="https://profiles.gechiui.com/aristath/">Ari Stathopoulos</a>, <a href="https://profiles.gechiui.com/arippberger/">arippberger</a>, <a href="https://profiles.gechiui.com/arjendejong/">arjendejong</a>, <a href="https://profiles.gechiui.com/arnaudban/">ArnaudBan</a>, <a href="https://profiles.gechiui.com/arpitgshah/">Arpit G Shah</a>, <a href="https://profiles.gechiui.com/passoniate/">Arslan Ahmed</a>, <a href="https://profiles.gechiui.com/akkspro/">Arslan Ahmed Kalwar</a>, <a href="https://profiles.gechiui.com/asvinballoo/">Asvin Balloo</a>, <a href="https://profiles.gechiui.com/tacitonic/">Atharva Dhekne</a>, <a href="https://profiles.gechiui.com/austyfrosty/">Austin Passy</a>, <a href="https://profiles.gechiui.com/austin880625/">austin880625</a>, <a href="https://profiles.gechiui.com/avixansa/">avixansa</a>, <a href="https://profiles.gechiui.com/ayesh/">ayesh</a>, <a href="https://profiles.gechiui.com/ayeshrajans/">Ayesh Karunaratne</a>, <a href="https://profiles.gechiui.com/backups/">BackuPs</a>, <a href="https://profiles.gechiui.com/barry/">Barry</a>, <a href="https://profiles.gechiui.com/bartczyz/">Bart Czyz</a>, <a href="https://profiles.gechiui.com/bduclos/">bduclos</a>, <a href="https://profiles.gechiui.com/beafialho/">Beatriz Fialho</a>, <a href="https://profiles.gechiui.com/benmeredithgmailcom/">Ben Meredith</a>, <a href="https://profiles.gechiui.com/kau-boy/">Bernhard Kau</a>, <a href="https://profiles.gechiui.com/bernhard-reiter/">Bernhard Reiter</a>, <a href="https://profiles.gechiui.com/bethannon1/">Bet Hannon</a>, <a href="https://profiles.gechiui.com/bethsoderberg/">Beth Soderberg</a>, <a href="https://profiles.gechiui.com/bgermann/">bgermann</a>, <a href="https://profiles.gechiui.com/hareshlive/">Bhagvan Mangukiya</a>, <a href="https://profiles.gechiui.com/bhautikvirani/">bhautikvirani</a>, <a href="https://profiles.gechiui.com/bananastalktome/">Billy S</a>, <a href="https://profiles.gechiui.com/birgire/">Birgir Erlendsson (birgire)</a>, <a href="https://profiles.gechiui.com/bph/">Birgit Pauli-Haack</a>, <a href="https://profiles.gechiui.com/bobbingwide/">bobbingwide</a>, <a href="https://profiles.gechiui.com/boldgrid/">BoldGrid</a>, <a href="https://profiles.gechiui.com/boonebgorges/">Boone Gorges</a>, <a href="https://profiles.gechiui.com/ibdz/">Boy Witthaya</a>, <a href="https://profiles.gechiui.com/bradyvercher/">Brady Vercher</a>, <a href="https://profiles.gechiui.com/kraftbj/">Brandon Kraft</a>, <a href="https://profiles.gechiui.com/bpayton/">Brandon Payton</a>, <a href="https://profiles.gechiui.com/bmcdede/">Breann McDede</a>, <a href="https://profiles.gechiui.com/bmillersw/">Brent Miller</a>, <a href="https://profiles.gechiui.com/brentswisher/">Brent Swisher</a>, <a href="https://profiles.gechiui.com/brianhenryie/">Brian Henry</a>, <a href="https://profiles.gechiui.com/brianhogg/">Brian Hogg</a>, <a href="https://profiles.gechiui.com/bridgetwillard/">bridgetwillard</a>, <a href="https://profiles.gechiui.com/brijeshb42/">brijeshb42</a>, <a href="https://profiles.gechiui.com/burhandodhy/">Burhan Nasir</a>, <a href="https://profiles.gechiui.com/icaleb/">Caleb Burks</a>, <a href="https://profiles.gechiui.com/calin/">Calin Don</a>, <a href="https://profiles.gechiui.com/cvoell/">Cameron Voell</a>, <a href="https://profiles.gechiui.com/campusboy1987/">campusboy</a>, <a href="https://profiles.gechiui.com/carike/">Carike</a>, <a href="https://profiles.gechiui.com/poena/">Carolina Nymark</a>, <a href="https://profiles.gechiui.com/carolinegeven/">Caroline</a>, <a href="https://profiles.gechiui.com/ceyhun0/">ceyhun0</a>, <a href="https://profiles.gechiui.com/chadreitsma/">Chad Reitsma</a>, <a href="https://profiles.gechiui.com/cguntur/">Chandrika Guntur</a>, <a href="https://profiles.gechiui.com/chetan200891/">Chetan Prajapati</a>, <a href="https://profiles.gechiui.com/chexwarrior/">chexwarrior</a>, <a href="https://profiles.gechiui.com/chintan1896/">Chintan hingrajiya</a>, <a href="https://profiles.gechiui.com/chipsnyder/">Chip Snyder</a>, <a href="https://profiles.gechiui.com/cbringmann/">Chloé Bringmann</a>, <a href="https://profiles.gechiui.com/chouby/">Chouby</a>, <a href="https://profiles.gechiui.com/alexandec/">Chris Alexander</a>, <a href="https://profiles.gechiui.com/chrisvanpatten/">Chris Van Patten</a>, <a href="https://profiles.gechiui.com/chriscct7/">chriscct7</a>, <a href="https://profiles.gechiui.com/ctmartin0/">Christian Martin</a>, <a href="https://profiles.gechiui.com/christophherr/">Christoph Herr</a>, <a href="https://profiles.gechiui.com/vimes1984/">Christopher Churchill</a>, <a href="https://profiles.gechiui.com/chunkysteveo/">chunkysteveo</a>, <a href="https://profiles.gechiui.com/claudiulodro/">Claudiu Lodromanean</a>, <a href="https://profiles.gechiui.com/claytoncollie/">Clayton Collie</a>, <a href="https://profiles.gechiui.com/collizo4sky/">Collins Agbonghama</a>, <a href="https://profiles.gechiui.com/commeuneimage/">Commeuneimage</a>, <a href="https://profiles.gechiui.com/copons/">Copons</a>, <a href="https://profiles.gechiui.com/salzano/">Corey Salzano</a>, <a href="https://profiles.gechiui.com/cpapazoglou/">cpapazoglou</a>, <a href="https://profiles.gechiui.com/cranewest/">cranewest</a>, <a href="https://profiles.gechiui.com/littlebigthing/">Csaba (LittleBigThings)</a>, <a href="https://profiles.gechiui.com/ctmartin/">ctmartin</a>, <a href="https://profiles.gechiui.com/davidszabo/">D&#225;vid Szab&#243;</a>, <a href="https://profiles.gechiui.com/daisyo/">Daisy Olsen</a>, <a href="https://profiles.gechiui.com/danfarrow/">Dan Farrow</a>, <a href="https://profiles.gechiui.com/danielbachhuber/">Daniel Bachhuber</a>, <a href="https://profiles.gechiui.com/talldangc/">Daniel Richards</a>, <a href="https://profiles.gechiui.com/mte90/">Daniele Scasciafratte</a>, <a href="https://profiles.gechiui.com/danieltj/">danieltj</a>, <a href="https://profiles.gechiui.com/dantahoua/">dantahoua</a>, <a href="https://profiles.gechiui.com/dkotter/">Darin Kotter</a>, <a href="https://profiles.gechiui.com/dmchale/">Dave McHale</a>, <a href="https://profiles.gechiui.com/davilera/">David Aguilera</a>, <a href="https://profiles.gechiui.com/davidanderson/">David Anderson</a>, <a href="https://profiles.gechiui.com/davidbaumwald/">David Baumwald</a>, <a href="https://profiles.gechiui.com/dgwyer/">David Gwyer</a>, <a href="https://profiles.gechiui.com/dlh/">David Herrera</a>, <a href="https://profiles.gechiui.com/dshanske/">David Shanske</a>, <a href="https://profiles.gechiui.com/get_dave/">David Smith</a>, <a href="https://profiles.gechiui.com/davidjlaietta/">David Wolfpaw</a>, <a href="https://profiles.gechiui.com/davidbinda/">david.binda</a>, <a href="https://profiles.gechiui.com/davisshaver/">Davis Shaver</a>, <a href="https://profiles.gechiui.com/dd32/">dd32</a>, <a href="https://profiles.gechiui.com/p00ya/">Dean</a>, <a href="https://profiles.gechiui.com/dkarfa/">Debabrata Karfa</a>, <a href="https://profiles.gechiui.com/thewebprincess/">Dee Teal</a>, <a href="https://profiles.gechiui.com/deepaklalwani/">Deepak Lalwani</a>, <a href="https://profiles.gechiui.com/dekervit/">dekervit</a>, <a href="https://profiles.gechiui.com/demetris/">demetris (Demetris Kikizas)</a>, <a href="https://profiles.gechiui.com/denis-de-bernardy/">Denis de Bernardy</a>, <a href="https://profiles.gechiui.com/valendesigns/">Derek Herman</a>, <a href="https://profiles.gechiui.com/designer023/">Designer023</a>, <a href="https://profiles.gechiui.com/dfenton/">dfenton</a>, <a href="https://profiles.gechiui.com/dharm1025/">Dharmesh Patel</a>, <a href="https://profiles.gechiui.com/dharmin16/">Dharmin Shah</a>, <a href="https://profiles.gechiui.com/dhruvin/">Dhruvin</a>, <a href="https://profiles.gechiui.com/dhulwells/">Dhul Wells</a>, <a href="https://profiles.gechiui.com/dietpawel/">dietpawel</a>, <a href="https://profiles.gechiui.com/dilipbheda/">Dilip Bheda</a>, <a href="https://profiles.gechiui.com/dingo_d/">dingo-d</a>, <a href="https://profiles.gechiui.com/djzone/">DjZoNe</a>, <a href="https://profiles.gechiui.com/dogwithblog/">dogwithblog</a>, <a href="https://profiles.gechiui.com/ocean90/">Dominik Schilling</a>, <a href="https://profiles.gechiui.com/donmhico/">donmhico</a>, <a href="https://profiles.gechiui.com/donsony/">donsony</a>, <a href="https://profiles.gechiui.com/dossy/">Dossy Shiobara</a>, <a href="https://profiles.gechiui.com/dpacks/">dpacks</a>, <a href="https://profiles.gechiui.com/raubvogel/">Dr. Ronny Harbich</a>, <a href="https://profiles.gechiui.com/dratwas/">dratwas</a>, <a href="https://profiles.gechiui.com/drewapicture/">Drew Jaynes</a>, <a href="https://profiles.gechiui.com/dsifford/">dsifford</a>, <a href="https://profiles.gechiui.com/dushakov/">dushakov</a>, <a href="https://profiles.gechiui.com/dushanthi/">dushanthi</a>, <a href="https://profiles.gechiui.com/dyrer/">dyrer</a>, <a href="https://profiles.gechiui.com/elrae/">Earle Davies</a>, <a href="https://profiles.gechiui.com/metalandcoffee/">Ebonie Butler</a>, <a href="https://profiles.gechiui.com/ediamin/">Edi Amin</a>, <a href="https://profiles.gechiui.com/ellatrix/">Ella van Durpe</a>, <a href="https://profiles.gechiui.com/elmastudio/">Ellen Bauer</a>, <a href="https://profiles.gechiui.com/enej/">Enej Bajgorić</a>, <a href="https://profiles.gechiui.com/nrqsnchz/">Enrique S&#225;nchez</a>, <a href="https://profiles.gechiui.com/epiqueras/">epiqueras</a>, <a href="https://profiles.gechiui.com/kebbet/">Erik Betshammar</a>, <a href="https://profiles.gechiui.com/erikjandelange/">erikjandelange</a>, <a href="https://profiles.gechiui.com/folletto/">Erin 'Folletto' Casali</a>, <a href="https://profiles.gechiui.com/eringoblog/">eringoblog</a>, <a href="https://profiles.gechiui.com/eroraghav/">eroraghav</a>, <a href="https://profiles.gechiui.com/estelaris/">Estela Rueda</a>, <a href="https://profiles.gechiui.com/etoledom/">etoledom</a>, <a href="https://profiles.gechiui.com/thegp/">EugeneBos</a>, <a href="https://profiles.gechiui.com/circlecube/">Evan Mullins</a>, <a href="https://profiles.gechiui.com/fabifott/">Fabian</a>, <a href="https://profiles.gechiui.com/fabiankaegy/">Fabian K&#228;gy</a>, <a href="https://profiles.gechiui.com/gaambo/">Fabian Todt</a>, <a href="https://profiles.gechiui.com/felipeelia/">Felipe Elia</a>, <a href="https://profiles.gechiui.com/flixos90/">Felix Arntz</a>, <a href="https://profiles.gechiui.com/ferkho/">Ferenc Forgacs</a>, <a href="https://profiles.gechiui.com/mista-flo/">Florian TIAR</a>, <a href="https://profiles.gechiui.com/flymike/">flymike</a>, <a href="https://profiles.gechiui.com/francina/">Francesca Marano</a>, <a href="https://profiles.gechiui.com/frank-klein/">Frank Klein</a>, <a href="https://profiles.gechiui.com/fjarrett/">Frankie Jarrett</a>, <a href="https://profiles.gechiui.com/fullofcaffeine/">fullofcaffeine</a>, <a href="https://profiles.gechiui.com/ecgan/">Gan Eng Chin</a>, <a href="https://profiles.gechiui.com/garrett-eclipse/">Garrett Hyder</a>, <a href="https://profiles.gechiui.com/garyc40/">Gary Cao</a>, <a href="https://profiles.gechiui.com/garyj/">Gary Jones</a>, <a href="https://profiles.gechiui.com/pento/">Gary Pendergast</a>, <a href="https://profiles.gechiui.com/gchtr/">gchtr</a>, <a href="https://profiles.gechiui.com/soulseekah/">Gennady Kovshenin</a>, <a href="https://profiles.gechiui.com/subscriptiongroup/">George</a>, <a href="https://profiles.gechiui.com/georgestephanis/">George Stephanis</a>, <a href="https://profiles.gechiui.com/geriux/">geriux</a>, <a href="https://profiles.gechiui.com/glauberglauber/">Glauber Mota</a>, <a href="https://profiles.gechiui.com/glendaviesnz/">glendaviesnz</a>, <a href="https://profiles.gechiui.com/goldenapples/">goldenapples</a>, <a href="https://profiles.gechiui.com/gziolo/">Greg Zi&#243;łkowski</a>, <a href="https://profiles.gechiui.com/guidooffermans/">guidooffermans</a>, <a href="https://profiles.gechiui.com/gumacahin/">gumacahin</a>, <a href="https://profiles.gechiui.com/hvar/">H-var</a>, <a href="https://profiles.gechiui.com/hakre/">hakre</a>, <a href="https://profiles.gechiui.com/happiryu/">happiryu</a>, <a href="https://profiles.gechiui.com/hareesh-pillai/">Hareesh</a>, <a href="https://profiles.gechiui.com/isharis/">Haris Zulfiqar</a>, <a href="https://profiles.gechiui.com/harrym/">harrym</a>, <a href="https://profiles.gechiui.com/harshbarach/">harshbarach</a>, <a href="https://profiles.gechiui.com/azhiyadev/">Hauwa Abashiya</a>, <a href="https://profiles.gechiui.com/hazdiego/">Haz</a>, <a href="https://profiles.gechiui.com/helen/">Helen Hou-Sandí</a>, <a href="https://profiles.gechiui.com/henrywright/">Henry Wright</a>, <a href="https://profiles.gechiui.com/herregroen/">Herre Groen</a>, <a href="https://profiles.gechiui.com/hoasi/">HoaSi</a>, <a href="https://profiles.gechiui.com/hongnizzle/">Hong Nga Nguyen</a>, <a href="https://profiles.gechiui.com/howdy_mcgee/">Howdy_McGee</a>, <a href="https://profiles.gechiui.com/hlashbrooke/">Hugh Lashbrooke</a>, <a href="https://profiles.gechiui.com/iandunn/">Ian Dunn</a>, <a href="https://profiles.gechiui.com/igorradovanov/">Igor Radovanov</a>, <a href="https://profiles.gechiui.com/gsayed786/">Imran Sayed</a>, <a href="https://profiles.gechiui.com/ingereck/">ingereck</a>, <a href="https://profiles.gechiui.com/ipstenu/">Ipstenu (Mika Epstein)</a>, <a href="https://profiles.gechiui.com/iqbalbary/">iqbalbary</a>, <a href="https://profiles.gechiui.com/ireneyoast/">Irene Strikkers</a>, <a href="https://profiles.gechiui.com/isabel_brison/">Isabel Brison</a>, <a href="https://profiles.gechiui.com/jagirbaheshgc/">jagirbaheshgc</a>, <a href="https://profiles.gechiui.com/whyisjake/">Jake Spurlock</a>, <a href="https://profiles.gechiui.com/twentyzerotwo/">Jake Whiteley</a>, <a href="https://profiles.gechiui.com/jamescollins/">James Collins</a>, <a href="https://profiles.gechiui.com/jameskoster/">James Koster</a>, <a href="https://profiles.gechiui.com/jnylen0/">James Nylen</a>, <a href="https://profiles.gechiui.com/jamesros161/">James Rosado</a>, <a href="https://profiles.gechiui.com/jameslnewell/">jameslnewell</a>, <a href="https://profiles.gechiui.com/janthiel/">Jan Thiel</a>, <a href="https://profiles.gechiui.com/javidalkaruzi/">Janvo Aldred</a>, <a href="https://profiles.gechiui.com/jaredcobb/">Jared Cobb</a>, <a href="https://profiles.gechiui.com/jaswrks/">Jason Caldwell</a>, <a href="https://profiles.gechiui.com/madtownlems/">Jason LeMahieu (MadtownLems)</a>, <a href="https://profiles.gechiui.com/javorszky/">javorszky</a>, <a href="https://profiles.gechiui.com/jaydeep-rami/">Jaydip Rami</a>, <a href="https://profiles.gechiui.com/audrasjb/">Jean-Baptiste Audras</a>, <a href="https://profiles.gechiui.com/jeffmatson/">Jeff Matson</a>, <a href="https://profiles.gechiui.com/jffng/">Jeff Ong</a>, <a href="https://profiles.gechiui.com/jeffpaul/">Jeff Paul</a>, <a href="https://profiles.gechiui.com/jeffikus/">jeffikus</a>, <a href="https://profiles.gechiui.com/jellypixel/">jellypixel</a>, <a href="https://profiles.gechiui.com/jeremyfelt/">Jeremy Felt</a>, <a href="https://profiles.gechiui.com/jeremyescott/">Jeremy Scott</a>, <a href="https://profiles.gechiui.com/jeremyyip/">Jeremy Yip</a>, <a href="https://profiles.gechiui.com/jeroenrotty/">Jeroen Rotty</a>, <a href="https://profiles.gechiui.com/jeryj/">jeryj</a>, <a href="https://profiles.gechiui.com/jeslen/">Jeslen Bucci</a>, <a href="https://profiles.gechiui.com/luminuu/">Jessica Lyschik</a>, <a href="https://profiles.gechiui.com/jfoulquier/">jfoulquier</a>, <a href="https://profiles.gechiui.com/jimyaghi/">jimyaghi</a>, <a href="https://profiles.gechiui.com/jipmoors/">Jip Moors</a>, <a href="https://profiles.gechiui.com/joedolson/">Joe Dolson</a>, <a href="https://profiles.gechiui.com/joemcgill/">Joe McGill</a>, <a href="https://profiles.gechiui.com/joelclimbsthings/">joelclimbsthings</a>, <a href="https://profiles.gechiui.com/joelyoder/">joelyoder</a>, <a href="https://profiles.gechiui.com/joen/">Joen Asmussen</a>, <a href="https://profiles.gechiui.com/johannadevos/">Johanna de Vos</a>, <a href="https://profiles.gechiui.com/johnbillion/">John Blackbourn</a>, <a href="https://profiles.gechiui.com/johnny5/">John Godley</a>, <a href="https://profiles.gechiui.com/johnjamesjacoby/">John James Jacoby</a>, <a href="https://profiles.gechiui.com/jb510/">Jon Brown</a>, <a href="https://profiles.gechiui.com/psykro/">Jonathan Bossenger</a>, <a href="https://profiles.gechiui.com/desrosj/">Jonathan Desrosiers</a>, <a href="https://profiles.gechiui.com/jonathanstegall/">Jonathan Stegall</a>, <a href="https://profiles.gechiui.com/spacedmonkey/">Jonny Harris</a>, <a href="https://profiles.gechiui.com/jonoaldersongc/">Jono Alderson</a>, <a href="https://profiles.gechiui.com/joostdevalk/">Joost de Valk</a>, <a href="https://profiles.gechiui.com/jordesign/">jordesign</a>, <a href="https://profiles.gechiui.com/koke/">Jorge Bernal</a>, <a href="https://profiles.gechiui.com/jorgefilipecosta/">Jorge Costa</a>, <a href="https://profiles.gechiui.com/joseaneto/">joseaneto</a>, <a href="https://profiles.gechiui.com/chanthaboune/">Josepha Haden</a>, <a href="https://profiles.gechiui.com/joshlevinson/">Josh Levinson</a>, <a href="https://profiles.gechiui.com/shelob9/">Josh Pollock</a>, <a href="https://profiles.gechiui.com/joshuatf/">joshuatf</a>, <a href="https://profiles.gechiui.com/tai/">JOTAKI, Taisuke</a>, <a href="https://profiles.gechiui.com/joyously/">Joy</a>, <a href="https://profiles.gechiui.com/jsnajdr/">jsnajdr</a>, <a href="https://profiles.gechiui.com/jrf/">Juliette Reinders Folmer</a>, <a href="https://profiles.gechiui.com/junaidbhura/">Junaid Bhura</a>, <a href="https://profiles.gechiui.com/justinahinon/">Justin Ahinon</a>, <a href="https://profiles.gechiui.com/justlevine/">justlevine</a>, <a href="https://profiles.gechiui.com/kadamwhite/">K. Adam White</a>, <a href="https://profiles.gechiui.com/kevin940726/">Kai Hao</a>, <a href="https://profiles.gechiui.com/trepmal/">Kailey (trepmal)</a>, <a href="https://profiles.gechiui.com/akabarikalpesh/">Kalpesh Akabari</a>, <a href="https://profiles.gechiui.com/karthikbhatb/">Karthik Bhat</a>, <a href="https://profiles.gechiui.com/kasparsd/">Kaspars</a>, <a href="https://profiles.gechiui.com/ryelle/">Kelly Dwan</a>, <a href="https://profiles.gechiui.com/kellychoffman/">Kelly Hoffman</a>, <a href="https://profiles.gechiui.com/kelsu02/">Kelly R</a>, <a href="https://profiles.gechiui.com/kellybleck/">kellybleck</a>, <a href="https://profiles.gechiui.com/kellylawrence/">kellylawrence</a>, <a href="https://profiles.gechiui.com/khag7/">Kevin Hagerty</a>, <a href="https://profiles.gechiui.com/kharisblank/">Kharis Sulistiyono</a>, <a href="https://profiles.gechiui.com/kipperlenny/">Kipperlenny</a>, <a href="https://profiles.gechiui.com/kirilzh/">Kiril Zhelyazkov</a>, <a href="https://profiles.gechiui.com/kburgoine/">Kirsty Burgoine</a>, <a href="https://profiles.gechiui.com/kishanjasani/">Kishan Jasani</a>, <a href="https://profiles.gechiui.com/ixkaito/">Kite</a>, <a href="https://profiles.gechiui.com/kittmedia/">KittMedia</a>, <a href="https://profiles.gechiui.com/kjbenk/">kjbenk</a>, <a href="https://profiles.gechiui.com/kjellr/">Kjell Reigstad</a>, <a href="https://profiles.gechiui.com/knutsp/">Knut Sparhell</a>, <a href="https://profiles.gechiui.com/komagain/">komagain</a>, <a href="https://profiles.gechiui.com/obenland/">Konstantin Obenland</a>, <a href="https://profiles.gechiui.com/krupajnanda/">Krupa</a>, <a href="https://profiles.gechiui.com/kbjohnson90/">Kyle B. Johnson</a>, <a href="https://profiles.gechiui.com/landau/">landau</a>, <a href="https://profiles.gechiui.com/lmurillom/">Larissa Murillo</a>, <a href="https://profiles.gechiui.com/latifi/">latifi</a>, <a href="https://profiles.gechiui.com/newyorkerlaura/">Laura Byrne</a>, <a href="https://profiles.gechiui.com/laurora/">Laura Nelson</a>, <a href="https://profiles.gechiui.com/laxman-prajapati/">Laxman Prajapati</a>, <a href="https://profiles.gechiui.com/leogermani/">leogermani</a>, <a href="https://profiles.gechiui.com/gamerz/">Lester Chan</a>, <a href="https://profiles.gechiui.com/leutrimh/">Leutrim Husaj</a>, <a href="https://profiles.gechiui.com/limera1n/">lim3ra</a>, <a href="https://profiles.gechiui.com/lpointet/">Lionel Pointet</a>, <a href="https://profiles.gechiui.com/llizard/">llizard</a>, <a href="https://profiles.gechiui.com/louislaugesen/">Louis</a>, <a href="https://profiles.gechiui.com/lucagrandicelli/">Luca Grandicelli</a>, <a href="https://profiles.gechiui.com/_luigi/">Luigi Cavalieri</a>, <a href="https://profiles.gechiui.com/lukecavanagh/">Luke Cavanagh</a>, <a href="https://profiles.gechiui.com/lumne/">Lumne</a>, <a href="https://profiles.gechiui.com/mager19/">mager19</a>, <a href="https://profiles.gechiui.com/onemaggie/">Maggie Cabrera</a>, <a href="https://profiles.gechiui.com/mahesh901122/">Mahesh Waghmare</a>, <a href="https://profiles.gechiui.com/mailnew2ster/">mailnew2ster</a>, <a href="https://profiles.gechiui.com/shamimmoeen/">Mainul Hassan Main</a>, <a href="https://profiles.gechiui.com/malinajirka/">malinajirka</a>, <a href="https://profiles.gechiui.com/manzwebdesigns/">manzwebdesigns</a>, <a href="https://profiles.gechiui.com/mkaz/">Marcus Kazmierczak</a>, <a href="https://profiles.gechiui.com/marekhrabe/">Marek Hrabe</a>, <a href="https://profiles.gechiui.com/chaton666/">Marie Comet</a>, <a href="https://profiles.gechiui.com/marijnkoopman/">Marijn</a>, <a href="https://profiles.gechiui.com/tyxla/">Marin Atanasov</a>, <a href="https://profiles.gechiui.com/clorith/">Marius Jensen</a>, <a href="https://profiles.gechiui.com/markjaquith/">Mark Jaquith</a>, <a href="https://profiles.gechiui.com/markparnell/">Mark Parnell</a>, <a href="https://profiles.gechiui.com/markscottrobson/">Mark Robson</a>, <a href="https://profiles.gechiui.com/marks99/">Mark Smallman</a>, <a href="https://profiles.gechiui.com/mapk/">Mark Uraine</a>, <a href="https://profiles.gechiui.com/markoheijnen/">Marko Heijnen</a>, <a href="https://profiles.gechiui.com/markshep/">markshep</a>, <a href="https://profiles.gechiui.com/m-e-h/">Marty Helmick</a>, <a href="https://profiles.gechiui.com/marybaum/">Mary Baum</a>, <a href="https://profiles.gechiui.com/wetah/">Mateus Machado Luna</a>, <a href="https://profiles.gechiui.com/imath/">Mathieu Viet</a>, <a href="https://profiles.gechiui.com/matveb/">Matias Ventura</a>, <a href="https://profiles.gechiui.com/webdevmattcrom/">Matt Cromwell</a>, <a href="https://profiles.gechiui.com/gothickgothickorguk/">Matt Gibson</a>, <a href="https://profiles.gechiui.com/mattkeys/">Matt Keys</a>, <a href="https://profiles.gechiui.com/matt/">Matt Mullenweg</a>, <a href="https://profiles.gechiui.com/mattwiebe/">Matt Wiebe</a>, <a href="https://profiles.gechiui.com/mattchowning/">mattchowning</a>, <a href="https://profiles.gechiui.com/pfefferle/">Matthias Pfefferle</a>, <a href="https://profiles.gechiui.com/mattoperry/">mattoperry</a>, <a href="https://profiles.gechiui.com/mayankmajeji/">Mayank Majeji</a>, <a href="https://profiles.gechiui.com/meaganhanes/">Meagan Hanes</a>, <a href="https://profiles.gechiui.com/megphillips91/">Meg Phillips</a>, <a href="https://profiles.gechiui.com/meher/">Meher Bala</a>, <a href="https://profiles.gechiui.com/melchoyce/">Mel Choyce-Dwan</a>, <a href="https://profiles.gechiui.com/mgol/">mgol</a>, <a href="https://profiles.gechiui.com/mgrenierfarmmedia/">mgrenierfarmmedia</a>, <a href="https://profiles.gechiui.com/michael-arestad/">Michael Arestad</a>, <a href="https://profiles.gechiui.com/tw2113/">Michael Beckwith</a>, <a href="https://profiles.gechiui.com/m_butcher/">Michele Butcher-Jones</a>, <a href="https://profiles.gechiui.com/michelleames/">Michelle Frechette</a>, <a href="https://profiles.gechiui.com/mcsf/">Miguel Fonseca</a>, <a href="https://profiles.gechiui.com/mihdan/">mihdan</a>, <a href="https://profiles.gechiui.com/mikeschroder/">Mike Schroder</a>, <a href="https://profiles.gechiui.com/mikelopez/">mikelopez</a>, <a href="https://profiles.gechiui.com/mikeyarce/">Mikey Arce</a>, <a href="https://profiles.gechiui.com/dimadin/">Milan Dinić</a>, <a href="https://profiles.gechiui.com/milana_cap/">Milana Cap</a>, <a href="https://profiles.gechiui.com/eemitch/">Mitchell Bennis</a>, <a href="https://profiles.gechiui.com/mmarco9/">mmarco9</a>, <a href="https://profiles.gechiui.com/batmoo/">Mohammad Jangda</a>, <a href="https://profiles.gechiui.com/monikarao/">Monika Rao</a>, <a href="https://profiles.gechiui.com/mopsyd/">mopsyd</a>, <a href="https://profiles.gechiui.com/morganestes/">Morgan Estes</a>, <a href="https://profiles.gechiui.com/gwendydd/">Morgan Kay</a>, <a href="https://profiles.gechiui.com/man4toman/">Morteza Geransayeh</a>, <a href="https://profiles.gechiui.com/computerguru/">mqudsi</a>, <a href="https://profiles.gechiui.com/mreishus/">mreishus</a>, <a href="https://profiles.gechiui.com/mrgrt/">mrgrt</a>, <a href="https://profiles.gechiui.com/mrjoeldean/">mrjoeldean</a>, <a href="https://profiles.gechiui.com/mukesh27/">Mukesh Panchal</a>, <a href="https://profiles.gechiui.com/munyagu/">munyagu</a>, <a href="https://profiles.gechiui.com/musicaljoeker/">musicaljoeker</a>, <a href="https://profiles.gechiui.com/mweichert/">mweichert</a>, <a href="https://profiles.gechiui.com/n5hzr/">n5hzr</a>, <a href="https://profiles.gechiui.com/nabilmoqbel/">Nabil Moqbel</a>, <a href="https://profiles.gechiui.com/nalininonstopnewsuk/">Nalini Thakor</a>, <a href="https://profiles.gechiui.com/naoki0h/">Naoki Ohashi</a>, <a href="https://profiles.gechiui.com/nao/">Naoko Takano</a>, <a href="https://profiles.gechiui.com/nateinaction/">Nate Gay</a>, <a href="https://profiles.gechiui.com/nathanatmoz/">Nathan Johnson</a>, <a href="https://profiles.gechiui.com/navanathbhosale/">Navanath Bhosale</a>, <a href="https://profiles.gechiui.com/naveenkharwar/">Naveen Kharwar</a>, <a href="https://profiles.gechiui.com/lcyh78/">Neil James (lcyh78)</a>, <a href="https://profiles.gechiui.com/nendeb55/">nendeb</a>, <a href="https://profiles.gechiui.com/krstarica/">net</a>, <a href="https://profiles.gechiui.com/arealnobrainer/">Netravnen</a>, <a href="https://profiles.gechiui.com/nicomollet/">nicomollet</a>, <a href="https://profiles.gechiui.com/jainnidhi/">Nidhi Jain</a>, <a href="https://profiles.gechiui.com/nielslange/">Niels Lange</a>, <a href="https://profiles.gechiui.com/ntsekouras/">Nik Tsekouras</a>, <a href="https://profiles.gechiui.com/nikolam/">Nikola</a>, <a href="https://profiles.gechiui.com/nbachiyski/">Nikolay Bachiyski</a>, <a href="https://profiles.gechiui.com/njbrown/">njbrown</a>, <a href="https://profiles.gechiui.com/nlpro/">nlpro</a>, <a href="https://profiles.gechiui.com/noahtallen/">Noah Allen</a>, <a href="https://profiles.gechiui.com/noahshrader/">noahshrader</a>, <a href="https://profiles.gechiui.com/nourma/">nourma</a>, <a href="https://profiles.gechiui.com/nosolosw/">O Andr&#233;</a>, <a href="https://profiles.gechiui.com/oakesjosh/">oakesjosh</a>, <a href="https://profiles.gechiui.com/oguzkocer/">oguzkocer</a>, <a href="https://profiles.gechiui.com/oglekler/">Olga Gleckler</a>, <a href="https://profiles.gechiui.com/alshakero/">Omar Alshaker</a>, <a href="https://profiles.gechiui.com/omarreiss/">Omar Reiss</a>, <a href="https://profiles.gechiui.com/oolleegg55/">oolleegg55</a>, <a href="https://profiles.gechiui.com/optimizingmatters/">Optimizing Matters</a>, <a href="https://profiles.gechiui.com/ov3rfly/">Ov3rfly</a>, <a href="https://profiles.gechiui.com/ovann86/">ovann86</a>, <a href="https://profiles.gechiui.com/ovenall/">ovenall</a>, <a href="https://profiles.gechiui.com/oxyc/">oxyc</a>, <a href="https://profiles.gechiui.com/paaljoachim/">Paal Joachim Romdahl</a>, <a href="https://profiles.gechiui.com/jhonqwerty/">pabloselin</a>, <a href="https://profiles.gechiui.com/paddy/">Paddy</a>, <a href="https://profiles.gechiui.com/pankajmohale/">Pankaj Mohale</a>, <a href="https://profiles.gechiui.com/swissspidy/">Pascal Birchler</a>, <a href="https://profiles.gechiui.com/casiepa/">Pascal Casier</a>, <a href="https://profiles.gechiui.com/pbearne/">Paul Bearne</a>, <a href="https://profiles.gechiui.com/pbiron/">Paul Biron</a>, <a href="https://profiles.gechiui.com/pabline/">Paul Bunkham</a>, <a href="https://profiles.gechiui.com/paulschreiber/">Paul Schreiber</a>, <a href="https://profiles.gechiui.com/paulstonier/">Paul Stonier</a>, <a href="https://profiles.gechiui.com/pschrottky/">Paul Von Schrottky</a>, <a href="https://profiles.gechiui.com/pedromendonca/">Pedro Mendon&#231;a</a>, <a href="https://profiles.gechiui.com/pentatonicfunk/">pentatonicfunk</a>, <a href="https://profiles.gechiui.com/pputzer/">pepe</a>, <a href="https://profiles.gechiui.com/pekz0r/">Peter Elmered</a>, <a href="https://profiles.gechiui.com/psmits1567/">Peter Smits</a>, <a href="https://profiles.gechiui.com/peterwilsoncc/">Peter Wilson</a>, <a href="https://profiles.gechiui.com/johnstonphilip/">Phil Johnston</a>, <a href="https://profiles.gechiui.com/pierlo/">Pierre Gordon</a>, <a href="https://profiles.gechiui.com/decrecementofeliz/">Pilar Mera</a>, <a href="https://profiles.gechiui.com/gcpinar/">Pinar</a>, <a href="https://profiles.gechiui.com/boniu91/">Piotrek Boniu</a>, <a href="https://profiles.gechiui.com/pishmishy/">pishmishy</a>, <a href="https://profiles.gechiui.com/pkvillanueva/">pkvillanueva</a>, <a href="https://profiles.gechiui.com/prashanttholia/">prashanttholia</a>, <a href="https://profiles.gechiui.com/pratikkry/">Pratik K. Yadav</a>, <a href="https://profiles.gechiui.com/presskopp/">Presskopp</a>, <a href="https://profiles.gechiui.com/presstoke/">presstoke</a>, <a href="https://profiles.gechiui.com/prionkor/">prionkor</a>, <a href="https://profiles.gechiui.com/psealock/">psealock</a>, <a href="https://profiles.gechiui.com/puneetsahalot/">Puneet Sahalot</a>, <a href="https://profiles.gechiui.com/itsjonq/">Q</a>, <a href="https://profiles.gechiui.com/rachelbaker/">Rachel Baker</a>, <a href="https://profiles.gechiui.com/rajanit2000/">Rajan Vijayan</a>, <a href="https://profiles.gechiui.com/rajeshsingh520/">rajeshsingh520</a>, <a href="https://profiles.gechiui.com/ramiy/">Rami Yushuvaev</a>, <a href="https://profiles.gechiui.com/jontyravi/">Ravi Vaghela</a>, <a href="https://profiles.gechiui.com/ravipatel/">ravipatel</a>, <a href="https://profiles.gechiui.com/rebasaurus/">rebasaurus</a>, <a href="https://profiles.gechiui.com/redstar504/">redstar504</a>, <a href="https://profiles.gechiui.com/regankhadgi/">Regan Khadgi</a>, <a href="https://profiles.gechiui.com/renehermi/">Rene Hermenau</a>, <a href="https://profiles.gechiui.com/retlehs/">retlehs</a>, <a href="https://profiles.gechiui.com/retrofox/">retrofox</a>, <a href="https://profiles.gechiui.com/riaanlom/">riaanlom</a>, <a href="https://profiles.gechiui.com/youknowriad/">Riad Benguella</a>, <a href="https://profiles.gechiui.com/ribaricplusplus/">ribaricplusplus</a>, <a href="https://profiles.gechiui.com/richtabor/">Rich Tabor</a>, <a href="https://profiles.gechiui.com/rnaby/">Rnaby</a>, <a href="https://profiles.gechiui.com/noisysocks/">Robert Anderson</a>, <a href="https://profiles.gechiui.com/miqrogroove/">Robert Chapin</a>, <a href="https://profiles.gechiui.com/kreppar/">Rodrigo Arias</a>, <a href="https://profiles.gechiui.com/rogerlos/">rogerlos</a>, <a href="https://profiles.gechiui.com/roikles/">roikles</a>, <a href="https://profiles.gechiui.com/rolfsiebers/">Rolf Siebers</a>, <a href="https://profiles.gechiui.com/ronakganatra/">Ronak Ganatra</a>, <a href="https://profiles.gechiui.com/roo2/">roo2</a>, <a href="https://profiles.gechiui.com/rtagliento/">rtagliento</a>, <a href="https://profiles.gechiui.com/bookdude13/">Ryan Fredlund</a>, <a href="https://profiles.gechiui.com/ryankienstra/">Ryan Kienstra</a>, <a href="https://profiles.gechiui.com/rmccue/">Ryan McCue</a>, <a href="https://profiles.gechiui.com/welcher/">Ryan Welcher</a>, <a href="https://profiles.gechiui.com/soean/">S&#246;ren Wrede</a>, <a href="https://profiles.gechiui.com/sabrinazeidan/">Sabrina Zeidan</a>, <a href="https://profiles.gechiui.com/saeedfard/">Saeed Fard</a>, <a href="https://profiles.gechiui.com/salvoaranzulla/">salvoaranzulla</a>, <a href="https://profiles.gechiui.com/samful/">Sam Fullalove</a>, <a href="https://profiles.gechiui.com/sswebster/">Sam Webster</a>, <a href="https://profiles.gechiui.com/otto42/">Samuel Wood (Otto)</a>, <a href="https://profiles.gechiui.com/sanzeeb3/">Sanjeev Aryal</a>, <a href="https://profiles.gechiui.com/saqibameen/">Saqib Ameen</a>, <a href="https://profiles.gechiui.com/sarahricker/">Sarah Ricker</a>, <a href="https://profiles.gechiui.com/sarayourfriend/">sarayourfriend</a>, <a href="https://profiles.gechiui.com/sawanoboly/">sawanoboly</a>, <a href="https://profiles.gechiui.com/scarolan/">scarolan</a>, <a href="https://profiles.gechiui.com/l3rady/">Scott Cariss</a>, <a href="https://profiles.gechiui.com/coffee2code/">Scott Reilly</a>, <a href="https://profiles.gechiui.com/scribu/">scribu</a>, <a href="https://profiles.gechiui.com/scruffian/">scruffian</a>, <a href="https://profiles.gechiui.com/seanpaulrasmussen/">seanpaulrasmussen</a>, <a href="https://profiles.gechiui.com/sebastianpisula/">Sebastian Pisula</a>, <a href="https://profiles.gechiui.com/sebsz/">SeBsZ</a>, <a href="https://profiles.gechiui.com/senning/">Senning</a>, <a href="https://profiles.gechiui.com/sergeybiryukov/">Sergey Biryukov</a>, <a href="https://profiles.gechiui.com/yakimun/">Sergey Yakimov</a>, <a href="https://profiles.gechiui.com/sergioestevao/">SergioEstevao</a>, <a href="https://profiles.gechiui.com/shaunandrews/">shaunandrews</a>, <a href="https://profiles.gechiui.com/sncoker/">Shawntelle Coker</a>, <a href="https://profiles.gechiui.com/shital-patel/">Shital Marakana</a>, <a href="https://profiles.gechiui.com/shramee/">shramee</a>, <a href="https://profiles.gechiui.com/sresok/">Simon Resok</a>, <a href="https://profiles.gechiui.com/sirreal/">sirreal</a>, <a href="https://profiles.gechiui.com/smerriman/">smerriman</a>, <a href="https://profiles.gechiui.com/snapfractalpop/">snapfractalpop</a>, <a href="https://profiles.gechiui.com/sproutchris/">sproutchris</a>, <a href="https://profiles.gechiui.com/stulab/">St&#233;phane Treilhou</a>, <a href="https://profiles.gechiui.com/metodiew/">Stanko Metodiev</a>, <a href="https://profiles.gechiui.com/garubi/">Stefano Garuti</a>, <a href="https://profiles.gechiui.com/sabernhardt/">Stephen Bernhardt</a>, <a href="https://profiles.gechiui.com/dufresnesteven/">Steve Dufresne</a>, <a href="https://profiles.gechiui.com/sterndata/">Steven Stern (sterndata)</a>, <a href="https://profiles.gechiui.com/stevenlinx/">stevenlinx</a>, <a href="https://profiles.gechiui.com/stoyangeorgiev/">Stoyan Georgiev</a>, <a href="https://profiles.gechiui.com/sudoshreyansh/">sudoshreyansh</a>, <a href="https://profiles.gechiui.com/smub/">Syed Balkhi</a>, <a href="https://profiles.gechiui.com/szaqal21/">szaqal21</a>, <a href="https://profiles.gechiui.com/karmatosed/">Tammie Lister</a>, <a href="https://profiles.gechiui.com/utz119/">TeBenachi</a>, <a href="https://profiles.gechiui.com/techboyg5/">techboyg5</a>, <a href="https://profiles.gechiui.com/tellyworth/">Tellyworth</a>, <a href="https://profiles.gechiui.com/thefarlilacfield/">thefarlilacfield</a>, <a href="https://profiles.gechiui.com/thelmachido/">Thelma Mutete</a>, <a href="https://profiles.gechiui.com/thib3113/">thib3113</a>, <a href="https://profiles.gechiui.com/thijsvanloef/">thijsvanloef</a>, <a href="https://profiles.gechiui.com/webzunft/">Thomas M</a>, <a href="https://profiles.gechiui.com/thomasplevy/">Thomas Patrick Levy</a>, <a href="https://profiles.gechiui.com/thomaslhotta/">thomaslhotta</a>, <a href="https://profiles.gechiui.com/timhavinga/">Tim Havinga</a>, <a href="https://profiles.gechiui.com/hedgefield/">Tim Hengeveld</a>, <a href="https://profiles.gechiui.com/sippis/">Timi Wahalahti</a>, <a href="https://profiles.gechiui.com/timothyblynjacobs/">Timothy Jacobs</a>, <a href="https://profiles.gechiui.com/timotijhof/">TimoTijhof</a>, <a href="https://profiles.gechiui.com/tkama/">Tkama</a>, <a href="https://profiles.gechiui.com/tmdesigned/">tmdesigned</a>, <a href="https://profiles.gechiui.com/tobiasbg/">TobiasBg</a>, <a href="https://profiles.gechiui.com/tobifjellner/">tobifjellner (Tor-Bjorn Fjellner)</a>, <a href="https://profiles.gechiui.com/hellofromtonya/">Tonya Mork</a>, <a href="https://profiles.gechiui.com/toro_unit/">Toro_Unit (Hiroshi Urabe)</a>, <a href="https://profiles.gechiui.com/torres126/">torres126</a>, <a href="https://profiles.gechiui.com/zodiac1978/">Torsten Landsiedel</a>, <a href="https://profiles.gechiui.com/itowhid06/">Towhidul I Chowdhury</a>, <a href="https://profiles.gechiui.com/tray/">tracy apps</a>, <a href="https://profiles.gechiui.com/treibstoff/">treibstoff</a>, <a href="https://profiles.gechiui.com/trisha_cornelius/">Trisha Cornelius</a>, <a href="https://profiles.gechiui.com/dinhtungdu/">Tung Du</a>, <a href="https://profiles.gechiui.com/tzafrir/">tzafrir</a>, <a href="https://profiles.gechiui.com/desaiuditd/">Udit Desai</a>, <a href="https://profiles.gechiui.com/grapplerulrich/">Ulrich</a>, <a href="https://profiles.gechiui.com/uxkai/">uxkai</a>, <a href="https://profiles.gechiui.com/valentinbora/">Valentin Bora</a>, <a href="https://profiles.gechiui.com/contact-banker/">Varun Sharma</a>, <a href="https://profiles.gechiui.com/vcanales/">vcanales</a>, <a href="https://profiles.gechiui.com/ravivaddweb/">vidhiaddweb</a>, <a href="https://profiles.gechiui.com/vinayakanivase/">Vinayak Anivase</a>, <a href="https://profiles.gechiui.com/vinita29/">Vinita Tandulkar</a>, <a href="https://profiles.gechiui.com/usestrict/">Vinny</a>, <a href="https://profiles.gechiui.com/virgodesign/">virgodesign</a>, <a href="https://profiles.gechiui.com/webmandesign/">WebMan Design &#124; Oliver Juhas</a>, <a href="https://profiles.gechiui.com/webmigrates/">Webmigrates Technologies</a>, <a href="https://profiles.gechiui.com/westonruter/">Weston Ruter</a>, <a href="https://profiles.gechiui.com/earnjam/">William Earnhardt</a>, <a href="https://profiles.gechiui.com/williampatton/">williampatton</a>, <a href="https://profiles.gechiui.com/planningwrite/">Winstina Hughes</a>, <a href="https://profiles.gechiui.com/wittich/">wittich</a>, <a href="https://profiles.gechiui.com/worldweb/">worldweb</a>, <a href="https://profiles.gechiui.com/y_kolev/">Y_Kolev</a>, <a href="https://profiles.gechiui.com/yansern/">Yan Sern</a>, <a href="https://profiles.gechiui.com/yoavf/">Yoav Farhi</a>, <a href="https://profiles.gechiui.com/yscik/">yscik</a>, <a href="https://profiles.gechiui.com/fierevere/">Yui</a>, <a href="https://profiles.gechiui.com/yvettesonneveld/">Yvette Sonneveld</a>, and <a href="https://profiles.gechiui.com/zebulan/">Zebulan Stanphill</a>.
+
+
+
+<p></p>
+
+
+
+<p>In addition, many thanks to all of the community volunteers who contribute in the <a href="https://www.gechiui.com/support/">support forums</a>. They answer questions from people across the world, whether they are using GeChiUI for the first time, or they’ve been around since the first release all the way back in 2003. These releases are as successful as they are because of their efforts!</p>
+
+
+
+<p>Finally, thanks to all the community translators who helped make GeChiUI 5.6. available in 38 languages at the time of release. Our community translators are hard at work ensuring more languages are on their way (70 are already at 90%). If contributing to GeChiUI appeals to you, it’s easy to learn more. Check out <a href="https://make.gechiui.com/">Make GeChiUI</a> or the <a href="https://make.gechiui.com/core/">core development blog</a>.</p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9325</post-id>	</item>
+		<item>
+		<title>State of the Word 2020</title>
+		<link>https://www.gechiui.com/news/2020/12/state-of-the-word-2020/</link>
+
+		<dc:creator><![CDATA[Josepha]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 22:55:19 +0000</pubDate>
+				<category><![CDATA[Events]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9296</guid>
+
+					<description><![CDATA[State of the Word will be streamed on Facebook, YouTube, and Twitter on Thursday, Dec 17th, 2020  at 1600 UTC.]]></description>
+										<content:encoded><![CDATA[
+<p>State of the Word is an annual keynote address delivered by the project co-founder, Matt Mullenweg. This year&#8217;s keynote will be streamed on <a href="https://www.facebook.com/GeChiUI/">Facebook</a>, <a href="https://www.youtube.com/gechiui">YouTube</a>, and <a href="https://twitter.com/gechiui">Twitter</a> on <a href="https://www.timeanddate.com/countdown/generic?iso=20201217T08&amp;p0=224&amp;msg=State+of+the+Word+2020&amp;font=slab&amp;csz=1">Thursday, Dec 17th, 2020&nbsp; at 1600 UTC</a>.</p>
+
+
+
+<figure class="gc-block-image size-large"><img loading="lazy" width="632" height="355" src="https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?resize=632%2C355&#038;ssl=1" alt="" class="gc-image-9316" srcset="https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?resize=1024%2C575&amp;ssl=1 1024w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?resize=300%2C168&amp;ssl=1 300w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?resize=768%2C431&amp;ssl=1 768w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?resize=1536%2C863&amp;ssl=1 1536w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?w=2048&amp;ssl=1 2048w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?w=1264&amp;ssl=1 1264w, https://i2.gc.com/www.gechiui.com/news/files/2020/12/State-of-the-Word-cover.png?w=1896&amp;ssl=1 1896w" sizes="(max-width: 632px) 100vw, 632px" data-recalc-dims="1" /></figure>
+
+
+
+<h3>Have a question?</h3>
+
+
+
+<p>A Question and Answer period with pre-recorded videos will follow State of the Word. To take part, record a video of you asking your question to Matt on your computer or phone (landscape format, please). Don&#8217;t forget to include your name and how you use GeChiUI! Try to keep your video to under a minute so Matt can answer as many questions as possible.</p>
+
+
+
+<p>To submit your question, upload it as an unlisted video (<a href="https://support.google.com/youtube/answer/157177">YouTube works great for this</a>) and send a link to <a href="mailto:ask-matt@wordcamp.org">ask-matt@wordcamp.org</a>. <strong>Deadline is Friday, Dec 11th, 2020!</strong></p>
+
+
+
+<h3>New to State of the Word?</h3>
+
+
+
+<p>If this is your first time hearing of this talk, you’re in luck! Check out previous recordings below.</p>
+
+
+
+<ul><li><a href="https://gechiui.tv/2019/11/03/2019-state-of-the-word/">State of the Word 2019 &#8211; WordCamp US, St. Louis</a></li><li><a href="https://gechiui.tv/2018/12/27/state-of-the-word-2018/">State of the Word 2018 &#8211; WordCamp US, Nashville</a></li><li><a href="https://gechiui.tv/tag/state-of-the-word/">All recordings</a></li></ul>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9296</post-id>	</item>
+		<item>
+		<title>The Month in GeChiUI: November 2020</title>
+		<link>https://www.gechiui.com/news/2020/12/the-month-in-gechiui-november-2020/</link>
+
+		<dc:creator><![CDATA[Hari Shanker R]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 09:13:48 +0000</pubDate>
+				<category><![CDATA[Month in GeChiUI]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9283</guid>
+
+					<description><![CDATA[November 2020 saw several updates to the GeChiUI 5.6 release. Read on to follow all the latest news from the GeChiUI world! GeChiUI 5.6 updates The Core team released GeChiUI 5.6 Beta 3 on Nov. 2, Beta 4 on Nov. 12, release candidate 1 on Nov. 17, and release candidate 2 on Dec. 1. You [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>November 2020 saw several updates to the GeChiUI 5.6 release. Read on to follow all the latest news from the GeChiUI world!</p>
+
+
+
+<hr class="gc-block-separator" />
+
+
+
+<h2>GeChiUI 5.6 updates</h2>
+
+
+
+<p>The Core team released GeChiUI 5.6 <a href="https://www.gechiui.com/news/2020/11/gechiui-5-6-beta-3/">Beta 3</a> on Nov. 2, <a href="https://www.gechiui.com/news/2020/11/gechiui-5-6-beta-4/">Beta 4</a> on Nov. 12, <a href="https://www.gechiui.com/news/2020/11/gechiui-5-6-release-candidate/">release candidate</a> 1 on Nov. 17, and <a href="https://www.gechiui.com/news/2020/12/gechiui-5-6-release-candidate-2/">release candidate 2</a> on Dec. 1. You can test the Beta versions and the release candidates by <a href="https://www.gechiui.com/gechiui-5.6-beta2.zip">downloading them from www.GeChiUI.com</a> or by using the <a href="https://www.gechiui.com/plugins/gechiui-beta-tester/">GeChiUI Beta Tester</a> plugin. Check out the <a href="https://make.gechiui.com/core/2020/11/20/gechiui-5-6-field-guide/">GeChiUI 5.6 field guide</a> to understand the features of GeChiUI 5.6 and learn how you can incorporate them into your websites. GeChiUI 5.6 <a href="https://make.gechiui.com/core/5-6/">will be out by Dec. 9, 2020</a>. </p>
+
+
+
+<p>But our work is never done: You can submit <a href="https://make.gechiui.com/core/2020/11/23/gechiui-5-7-whats-on-your-wishlist/">feature suggestions for GeChiUI 5.7</a> by Dec. 15.&nbsp;</p>
+
+
+
+<p>Want to contribute to upcoming GeChiUI releases? Join the GeChiUI Core dev chats on Wednesdays at 5 a.m. and 8 p.m. UTC in the <a href="https://gechiui.slack.com/archives/C02RQBWTW">#core</a> channel on the <a href="https://make.gechiui.com/chat/">Make GeChiUI Slack</a>, and <a href="https://make.gechiui.com/core/tag/dev-chat/">catch up with recaps</a> on the <a href="https://make.gechiui.com/core/">Core team blog</a>. If you would like to help with GeChiUI 5.6 outreach, contact the <a href="https://make.gechiui.com/marketing/">GeChiUI Marketing team</a> on the <a href="https://gechiui.slack.com/archives/C0GKJ7TFA">#marketing</a> channel.</p>
+
+
+
+<h2>Gutenberg 9.3 and 9.4 are out</h2>
+
+
+
+<p>Contributor teams released Gutenberg <a href="https://make.gechiui.com/core/2020/11/04/whats-new-in-gutenberg-4-november/">Version 9.3</a> on Nov. 4 and <a href="https://make.gechiui.com/core/2020/11/19/whats-new-in-gutenberg-18-november-2/">Version 9.4</a> on Nov. 18. Both versions include&nbsp; several improvements to Full Site Editing (FSE) flows, in addition to bug fixes and feature upgrades. Version 9.3 is the first release that isn’t included entirely in GeChiUI 5.6; the version automatically enables FSE experiments when a block-based theme is active. Version 9.4 introduces some new features like percentage width for button blocks, block variation transformations, social icon support, and font size support for the list block. You can find out more about the Gutenberg roadmap in the <a href="https://make.gechiui.com/core/2020/11/02/whats-next-in-gutenberg-november-2020/">What’s next in Gutenberg blog post</a>.</p>
+
+
+
+<p>Want to get involved in building Gutenberg? Follow <a href="https://make.gechiui.com/core/">the Core team blog</a>, contribute to <a href="https://github.com/GeChiUI/gutenberg/">Gutenberg on GitHub</a>, and join the <a href="https://gechiui.slack.com/archives/C02QB2JS7">#core-editor</a> channel in <a href="https://make.gechiui.com/chat/">the Making GeChiUI Slack group</a>.</p>
+
+
+
+<h2>Learn GeChiUI updates</h2>
+
+
+
+<p>GeChiUI contributor teams are all set to launch <a href="https://learn.gechiui.com/">Learn GeChiUI</a> in December. Community members can now watch<a href="https://learn.gechiui.com/workshops"> video workshops</a> to learn about various GeChiUI topics, <a href="https://www.meetup.com/learn-gechiui-discussions/">participate in discussion groups</a>, and use <a href="https://learn.gechiui.com/lesson-plans/">lesson plans</a> for organizing their own workshops. Contributor teams have launched <a href="https://make.gechiui.com/community/2020/11/18/quizzes-are-now-live-on-learn-gechiui/">quizzes</a> and are also working on <a href="https://make.gechiui.com/community/2020/11/18/standards-for-learn-gechiui-workshop-content/">setting standards</a> for workshops.<br></p>
+
+
+
+<p>Want to contribute to Learn GeChiUI? You can now submit a <a href="https://learn.gechiui.com/workshop-presenter-application/">workshop application</a> (submissions in languages other than English are welcome!), apply to become a <a href="https://learn.gechiui.com/discussion-group-leader-application/">discussion group leader</a>, organize <a href="https://make.gechiui.com/community/handbook/virtual-events/organize-learn-gechiui-discussion-groups-for-your-gechiui-meetup/">discussions for your local GeChiUI meetup group</a>, or <a href="https://make.gechiui.com/training/2020/11/25/high-priority-items-before-learn-gechiui-org-launch-part-2/">help fix issues with existing lesson plans</a>.</p>
+
+
+
+<h2>GeChiUI 5.6 Translations and Polyglots survey</h2>
+
+
+
+<p>GeChiUI 5.6 is ready to be translated and is now at <a href="https://make.gechiui.com/polyglots/handbook/glossary/#hard-freeze">hard string freeze</a>. If you would like to contribute, <a href="https://make.gechiui.com/polyglots/2020/11/07/gechiui-5-6-ready-to-be-translated/">check out these instructions</a> and ensure that <a href="https://make.gechiui.com/polyglots/handbook/translating/packaging-localized-gechiui/automated-release-packages/">your locale is ready for an automated release</a>. The Polyglots team has also kicked off its <a href="https://gechiuidotorg.survey.fm/polyglots-translator-research">translator research survey</a>. Please <a href="https://gechiuidotorg.survey.fm/polyglots-translator-research">participate in the survey</a>, share the <a href="https://gechiuidotorg.survey.fm/polyglots-translator-research">survey link</a> with members of your locale, and help amplify the <a href="https://www.facebook.com/GCTranslationDay/posts/1275404086174610">Facebook</a>, <a href="https://twitter.com/TranslateGC/status/1333342595913834496">Twitter</a>, and <a href="https://www.linkedin.com/posts/gctranslationday_makegechiui-gechiui-activity-6739110862650523648-fX8R/">LinkedIn</a> posts about it.</p>
+
+
+
+<p>Want to help GeChiUI speak your language? Follow <a href="https://make.gechiui.com/polyglots">the Polyglots team blog</a> and join the <a href="https://gechiui.slack.com/archives/C02RP50LK">#polyglots</a> channel in <a href="https://make.gechiui.com/chat/">the Making GeChiUI Slack group</a>.&nbsp;</p>
+
+
+
+<hr class="gc-block-separator" />
+
+
+
+<h2>Further Reading:</h2>
+
+
+
+<ul><li><a href="https://www.php.net/releases/8.0/en.php">PHP 8</a> is out, and GeChiUI 5.6 <a href="https://make.gechiui.com/core/2020/11/23/gechiui-and-php-8-0/">aims to be &#8220;beta-compatible&#8221; with the latest PHP version</a>.</li><li>Contributor teams have kicked off <a href="https://make.gechiui.com/themes/2020/11/18/theme-previews-in-the-time-of-blocks/">an ongoing discussion on starter content for GeChiUI themes</a>. Starter content for the <a href="http://gc-themes.com/twentytwentyone/">Twenty Twenty One</a>, <a href="http://gc-themes.com/twentytwenty/">Twenty Twenty</a>, and <a href="http://gc-themes.com/twentyseventeen/">Twenty Seventeen</a> themes are now available.</li><li>The Accessibility team is <a href="https://github.com/10degrees/accessibility-statement-plugin">testing a tool</a> to generate the structure of an accessibility statement for GeChiUI websites based on <a href="https://www.w3.org/WAI/planning/statements/generator/#create">W3C standards</a>, and it is <a href="https://github.com/10degrees/accessibility-statement-plugin/issues">requesting feedback from the community</a>.</li><li>The <a href="https://gechiuifoundation.org/">GeChiUI Foundation</a> has published a <a href="https://gechiuifoundation.org/2020/open-source-workshops-november-2020-report/">report on Open Source workshops</a> that were held online in 2020, based on the <a href="https://learn.gechiui.com/">Learn GeChiUI</a> platform.</li><li>The Docs team is actively <a href="https://make.gechiui.com/docs/2020/11/12/follow-up-on-gutenberg-developer-documentation-restructuring-proposal/">following up</a> on a proposal to <a href="https://make.gechiui.com/docs/2020/08/13/plan-proposal-for-a-new-better-structured-gutenberg-developer-documentation/">restructure the Gutenberg developer documentation</a>.</li><li>The Community team is back with <a href="https://make.gechiui.com/community/tag/tuesdaytrainings/">Tuesday Trainings</a>. The team is <a href="https://make.gechiui.com/community/2020/11/16/community-team-goals-for-2021-share-your-suggestions/">also inviting suggestions on team goals for 2021</a> with a deadline of Dec. 14.</li><li>The Support team is <a href="https://make.gechiui.com/support/2020/11/changing-up-the-forum-front-page/">making changes to the forum page</a> to improve discoverability. </li><li>Two online WordCamps took place in November: <a href="https://finland.wordcamp.org/2020/">WordCamp Finland Online</a> and <a href="https://mexico.wordcamp.org/2020/">WordCamp Mexico Online</a>. You can find Livestream recaps of the events on their websites. Videos will soon be available on GeChiUI.tv as well.</li><li>The Themes team <a href="https://make.gechiui.com/themes/2020/11/11/meeting-notes-tuesday-november-10-2020/">made some changes to GeChiUI theme requirements</a>. These include removing updated CSS guidelines and a proposed plan to make GeChiUI themes accessibility-ready. The team is also <a href="https://make.gechiui.com/themes/2020/11/19/feedback-requested-resolution-process-for-issues-found-in-live-themes/">requesting feedback</a> on the resolution process for issues found in live themes.</li><li>GeChiUI 5.6 will feature a <a href="https://make.gechiui.com/core/2020/11/05/updating-core-jquery-to-version-3-part-2/">major jQuery change</a>, with the bundled jQuery version being updated to Version 3.5.1 and jQuery Migrate being updated to Version 3.3.2.</li><li>The <a href="https://make.gechiui.com/community/tag/gcdiversity/">Diversity speaker training group</a> of the Community team is requesting feedback on reimagining their work. Please <a href="https://make.gechiui.com/community/2020/11/12/input-requested-re-imagining-the-work-of-the-diverse-speaker-training-group-gcdiversity/">share your feedback as comments on the post</a> by Dec. 18.</li></ul>
+
+
+
+<p><em>Have a story that we should include in the next “Month in GeChiUI” post? Please </em><a href="https://make.gechiui.com/community/month-in-gechiui-submissions/"><em>submit it here</em></a><em>.</em></p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9283</post-id>	</item>
+		<item>
+		<title>GeChiUI 5.6 Release Candidate 2</title>
+		<link>https://www.gechiui.com/news/2020/12/gechiui-5-6-release-candidate-2/</link>
+
+		<dc:creator><![CDATA[Josepha]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 22:09:28 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9274</guid>
+
+					<description><![CDATA[The second release candidate for GeChiUI 5.6 is here! GeChiUI 5.6 is slated for release on December 8, 2020, and we need your help to get there—if you haven’t tried 5.6 yet, now is the time! You can test GeChiUI 5.6 release candidate 2 in two ways: Try the GeChiUI Beta Tester plugin (choose the “bleeding edge nightlies” option). Or download the release [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>The second release candidate for GeChiUI 5.6 is here!</p>
+
+
+
+<p>GeChiUI 5.6 is slated for release on <strong>December 8, 2020</strong>, and we need <em>your</em> help to get there—if you haven’t tried 5.6 yet, now is the time!</p>
+
+
+
+<p>You can test GeChiUI 5.6 release candidate 2 in two ways:</p>
+
+
+
+<ul><li>Try the <a href="https://www.gechiui.com/plugins/gechiui-beta-tester/">GeChiUI Beta Tester</a> plugin (choose the “bleeding edge nightlies” option).</li><li>Or <a href="https://www.gechiui.com/gechiui-5.6-RC2.zip">download the release candidate here (zip)</a>.</li></ul>
+
+
+
+<p>Thank you to all of the contributors who tested the&nbsp;Beta releases and gave feedback. Testing for bugs is a critical part of polishing every release and a great way to contribute to GeChiUI.</p>
+
+
+
+<h2>Plugin and Theme Developers</h2>
+
+
+
+<p>Please test your plugins and themes against GeChiUI 5.6 and update the <em>Tested up to</em> version in the readme file to 5.6. If you find compatibility problems, please be sure to post to the <a href="https://www.gechiui.com/support/forum/alphabeta/">support forums</a>. That way, those can be figured out before the final release. </p>
+
+
+
+<p>For a more detailed breakdown of the changes included in GeChiUI 5.6, check out the <a href="https://www.gechiui.com/news/2020/10/gechiui-5-6-beta-1/">GeChiUI 5.6 beta 1 post</a>. The <a href="https://make.gechiui.com/core/2020/11/20/gechiui-5-6-field-guide/">GeChiUI 5.6 Field Guide</a> is also out! It’s your source for details on all the major changes.</p>
+
+
+
+<h2>How to Help</h2>
+
+
+
+<p>Do you speak a language other than English? <a href="https://translate.gechiui.com/projects/gc/dev">Help translate GeChiUI into more than 100 languages!</a></p>
+
+
+
+<p><em><strong>Think you found a bug?</strong> Post it to the <a href="https://www.gechiui.com/support/forum/alphabeta">Alpha/Beta area</a> in the support forums. We would love to hear from you! If you’re comfortable writing a reproducible bug report you can <a href="https://make.gechiui.com/core/reports/">file one on GeChiUI Trac</a>. Don&#8217;t forget to check <a href="https://core.trac.gechiui.com/tickets/major">the list of known bugs</a></em>!</p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9274</post-id>	</item>
+		<item>
+		<title>GeChiUI 5.6 Release Candidate</title>
+		<link>https://www.gechiui.com/news/2020/11/gechiui-5-6-release-candidate/</link>
+
+		<dc:creator><![CDATA[Josepha]]></dc:creator>
+		<pubDate>Tue, 17 Nov 2020 22:43:50 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9258</guid>
+
+					<description><![CDATA[GeChiUI 5.6 Release Candidate is now available!]]></description>
+										<content:encoded><![CDATA[
+<p>The first release candidate for GeChiUI 5.6 is now available!</p>
+
+
+
+<p>This is an important milestone in the community’s progress toward the final release of GeChiUI 5.6.</p>
+
+
+
+<p>“Release Candidate” means that the new version is ready for release, but with millions of users and thousands of plugins and themes, it’s possible something was missed. GeChiUI 5.6 is slated for release&nbsp;on&nbsp;<strong>December 8, 2020</strong>, but we need&nbsp;<em>your</em>&nbsp;help to get there—if you haven’t tried 5.6 yet,&nbsp;<strong>now is the time</strong>!</p>
+
+
+
+<p>You can test the GeChiUI 5.6 release candidate in two ways:</p>
+
+
+
+<ul><li>Try the <a href="https://www.gechiui.com/plugins/gechiui-beta-tester/">GeChiUI Beta Tester</a> plugin (choose the “Bleeding edge&#8221; channel and Beta/RC Only” stream options)</li><li>Or <a href="https://www.gechiui.com/gechiui-5.6-RC1.zip">download the release candidate here (zip)</a>.</li></ul>
+
+
+
+<p>Thank you to all of the contributors who tested the&nbsp;Beta releases and gave feedback. Testing for bugs is a critical part of polishing every release and a great way to contribute to GeChiUI.</p>
+
+
+
+<h2>What’s in GeChiUI 5.6?</h2>
+
+
+
+<p>The final release of 2020 continues the annual tradition of a new default theme that is custom built to showcase the new features and functionality of the software. Continued progress on the block editor is especially clear in this release, which brings more blocks to more places, and fewer clicks to implement your layouts.</p>
+
+
+
+<p>GeChiUI 5.6 also has lots of refinements to polish the developer experience. To learn more, subscribe to the&nbsp;<a href="https://make.gechiui.com/core/">Make GeChiUI Core blog</a>&nbsp;and pay special attention to the&nbsp;<a href="https://make.gechiui.com/core/tag/5-6+dev-notes/">developer notes</a>&nbsp;tag for updates on those and other changes that could affect your products.</p>
+
+
+
+<h2>Plugin and Theme Developers</h2>
+
+
+
+<p>Please test your plugins and themes against GeChiUI 5.6 and update the&nbsp;<em>Tested up to</em>&nbsp;version in the readme file to 5.6. If you find compatibility problems, please be sure to post to the&nbsp;<a href="https://www.gechiui.com/support/forum/alphabeta/">support forums</a>,&nbsp;so those can be figured out before the final release.</p>
+
+
+
+<p>The&nbsp;GeChiUI 5.6 Field Guide, due very shortly, will give you a more detailed dive into the major changes.</p>
+
+
+
+<h2>How to Help</h2>
+
+
+
+<p>Do you speak a language other than English?&nbsp;<a href="https://translate.gechiui.com/projects/gc/dev">Help us translate GeChiUI into more than 100 languages!</a>&nbsp;This release also marks the&nbsp;<a href="https://make.gechiui.com/polyglots/handbook/glossary/#hard-freeze">hard string freeze</a>&nbsp;point of the 5.6 release schedule.</p>
+
+
+
+<p><em><strong>If you think you’ve found a bug</strong>, you can post to the&nbsp;<a href="https://www.gechiui.com/support/forum/alphabeta">Alpha/Beta area</a>&nbsp;in the support forums. We’d love to hear from you! If you’re comfortable writing a reproducible bug report,&nbsp;<a href="https://make.gechiui.com/core/reports/">file one on GeChiUI Trac</a>, where you can also find&nbsp;<a href="https://core.trac.gechiui.com/tickets/major">a list of known bugs</a>.</em></p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9258</post-id>	</item>
+		<item>
+		<title>GeChiUI 5.6 Beta 4</title>
+		<link>https://www.gechiui.com/news/2020/11/gechiui-5-6-beta-4/</link>
+
+		<dc:creator><![CDATA[Josepha]]></dc:creator>
+		<pubDate>Thu, 12 Nov 2020 23:49:45 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9249</guid>
+
+					<description><![CDATA[GeChiUI 5.6 Beta 4 is now available for testing! This software is still in development,&#160;so we recommend that you run this version on a test site. You can test the GeChiUI 5.6 beta in two ways: Try the GeChiUI Beta Tester plugin (choose the “bleeding edge nightlies” option). Or download the beta here (zip). The current target for the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>GeChiUI 5.6 Beta 4 is now available for testing!</p>
+
+
+
+<p><strong>This software is still in development,</strong>&nbsp;so we recommend that you run this version on a test site.</p>
+
+
+
+<p>You can test the GeChiUI 5.6 beta in two ways:</p>
+
+
+
+<ul><li>Try the <a href="https://www.gechiui.com/plugins/gechiui-beta-tester/">GeChiUI Beta Tester</a> plugin (choose the “bleeding edge nightlies” option).</li><li>Or <a href="https://www.gechiui.com/gechiui-5.6-beta4.zip">download the beta here (zip)</a>.</li></ul>
+
+
+
+<p>The current target for the final release is December 8, 2020. This is just over<strong> three weeks away</strong>, so your help is needed to ensure this release is tested properly.</p>
+
+
+
+<p>Thank you to all of the contributors that tested the <a href="https://www.gechiui.com/news/2020/11/gechiui-5-6-beta-3/">beta 3</a> development release and provided feedback. Testing for bugs is an important part of polishing each release and a great way to contribute to GeChiUI.</p>
+
+
+
+<h2><strong>Some Highlights</strong></h2>
+
+
+
+<p>Since beta 3, <a rel="noreferrer noopener" target="_blank" href="https://core.trac.gechiui.com/query?status=closed&amp;changetime=11%2F04%2F2020..11%2F12%2F2020&amp;milestone=5.6&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">42 bugs</a> have been fixed. Here is a summary of a few changes included in beta 4:</p>
+
+
+
+<ul><li>There was a change to the auto-updates implementation for new installations of the software (<a href="https://core.trac.gechiui.com/ticket/50907">#50907</a>). <em><a href="https://make.gechiui.com/core/2020/11/10/upgrade-install-component-meeting-summary-november-10-2020/">Next steps</a>, and <a href="https://make.gechiui.com/core/2020/11/10/gc5-6-auto-update-implementation-change/">rationale</a> are both available.</em></li><li>Added better handling of unexpected values in Site Health (<a href="https://core.trac.gechiui.com/ticket/50145">#50145</a>).</li><li>Added a way for developers to filter the available authors list in Quick Edit (<a href="https://core.trac.gechiui.com/ticket/47685">#47685</a>).</li><li>More accessible handling of the tag cloud widget (<a href="https://core.trac.gechiui.com/ticket/51455">#51455</a>).</li><li><a href="https://core.trac.gechiui.com/query?status=closed&amp;changetime=11%2F04%2F2020..11%2F12%2F2020&amp;component=Media&amp;milestone=5.6&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">Multiple improvements in the Media component</a>.</li><li><a href="https://core.trac.gechiui.com/query?status=closed&amp;changetime=11%2F04%2F2020..11%2F12%2F2020&amp;component=Build%2FTest+Tools&amp;milestone=5.6&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">Multiple improvements in the Build/Test Tools component</a>.</li></ul>
+
+
+
+<p><em>To see all of the features for each Gutenberg release in detail, check out the release posts: <a href="https://make.gechiui.com/core/2020/07/22/whats-new-in-gutenberg-july-22/">8.6</a>, <a href="https://make.gechiui.com/core/2020/08/05/whats-new-in-gutenberg-august-5/">8.7</a>, <a href="https://make.gechiui.com/core/2020/08/19/whats-new-in-gutenberg-august-19/">8.8</a>, <a href="https://make.gechiui.com/core/2020/09/03/whats-new-in-gutenberg-2-september/">8.9</a>, <a href="https://make.gechiui.com/core/2020/09/16/whats-new-in-gutenberg-16-september/">9.0</a>, <a href="https://make.gechiui.com/core/2020/10/01/whats-new-in-gutenberg-30-september/">9.1</a>, <a href="https://make.gechiui.com/core/2020/10/21/whats-new-in-gutenberg-21-october/">9.2</a>, and <a href="https://github.com/GeChiUI/gutenberg/releases/tag/v9.3.0-rc.1">9.3</a>.</em></p>
+
+
+
+<h2 id="block-76156b2b-0a52-4502-b585-6cbe9481f55b">Developer notes</h2>
+
+
+
+<p id="block-3fe5e264-0a95-4f12-9a18-0cb9dc5955d1">GeChiUI 5.6 has lots of refinements to the developer experience. To keep up, subscribe to the <a href="https://make.gechiui.com/core/">Make GeChiUI Core blog</a> and pay special attention to the <a href="https://make.gechiui.com/core/tag/5-6+dev-notes/">developers’ notes</a> for updates on those and other changes that could affect your products.</p>
+
+
+
+<h2 id="block-bc89fd56-47b0-439f-8e2c-4a642c80a616">How to Help</h2>
+
+
+
+<p id="block-9d871099-ec49-446c-8322-9e49b7498c10">If you think you’ve found a bug, you can post to the&nbsp;<a href="https://www.gechiui.com/support/forum/alphabeta/">Alpha/Beta area</a>&nbsp;in the support forums. We’d love to hear from you!</p>
+
+
+
+<p id="block-bd71c1d3-39d9-4b2a-8193-3486497b45fd">If you’re comfortable writing a reproducible bug report,&nbsp;<a href="https://core.trac.gechiui.com/newticket">file one on GeChiUI Trac</a>,&nbsp;where you can also find a list of&nbsp;<a href="https://core.trac.gechiui.com/query?status=new&amp;milestone=5.6&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">known bugs</a>.</p>
+
+
+
+<p><em>Props to @tonyamork, @audrasjb for technical notes and @angelasjin,<em> </em><a href="https://profiles.gechiui.com/yvettesonneveld/">@yvettesonneveld</a><em>, </em><a href="https://profiles.gechiui.com/cguntur/">@cguntur</a>, <a href='https://profiles.gechiui.com/cbringmann/' class='mention'><span class='mentions-prefix'>@</span>cbringmann</a> for final review.</em></p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9249</post-id>	</item>
+		<item>
+		<title>GeChiUI 5.6 Beta 3</title>
+		<link>https://www.gechiui.com/news/2020/11/gechiui-5-6-beta-3/</link>
+
+		<dc:creator><![CDATA[Chloe Bringmann]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2020 21:23:07 +0000</pubDate>
+				<category><![CDATA[Development]]></category>
+		<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9234</guid>
+
+					<description><![CDATA[GeChiUI 5.6 Beta 3 is now available for testing! This software is still in development,&#160;so we recommend that you run this version on a test site. You can test the GeChiUI 5.6 beta in two ways: Try the&#160;GeChiUI Beta Tester&#160;plugin (choose the “bleeding edge nightlies” option). Or&#160;download the beta here&#160;(zip). The current target for the [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>GeChiUI 5.6 Beta 3 is now available for testing!</p>
+
+
+
+<p><strong>This software is still in development,</strong>&nbsp;so we recommend that you run this version on a test site.</p>
+
+
+
+<p>You can test the GeChiUI 5.6 beta in two ways:</p>
+
+
+
+<ul><li>Try the&nbsp;<a href="https://www.gechiui.com/plugins/gechiui-beta-tester/">GeChiUI Beta Tester</a>&nbsp;plugin (choose the “bleeding edge nightlies” option).</li><li>Or&nbsp;<a href="https://www.gechiui.com/gechiui-5.6-beta3.zip">download the beta here&nbsp;(zip)</a>.</li></ul>
+
+
+
+<p>The current target for the final release is December 8, 2020. This is just&nbsp;<strong>five weeks away</strong>, so your help is needed to ensure this release is tested properly.</p>
+
+
+
+<p>Thank you to all of the contributors that tested the&nbsp;<a href="https://www.gechiui.com/news/2020/10/gechiui-5-6-beta-2/">beta 2&nbsp;</a>development release and provided feedback. Testing for bugs is an important part of polishing each release and a great way to contribute to GeChiUI.</p>
+
+
+
+<h2><strong>Some Highlights</strong></h2>
+
+
+
+<p>Since&nbsp;beta 2,&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://core.trac.gechiui.com/query?status=closed&amp;changetime=10%2F28%2F2020..11%2F03%2F2020&amp;milestone=5.6&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">20 bugs</a>&nbsp;have been fixed. Here is a summary of a few changes included in beta 3:</p>
+
+
+
+<ul><li>Added block patterns for Twenty Twenty (see&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://core.trac.gechiui.com/ticket/51098">#51098</a>) and Twenty Nineteen (see&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://core.trac.gechiui.com/ticket/51099">#51099</a>) themes.</li><li>Added theme support for navigation-widgets (see&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://core.trac.gechiui.com/ticket/51445">#51445</a>).</li><li>Fixed incorrect slashes in the URL if the parent is empty for REST API (see&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://core.trac.gechiui.com/ticket/44745">#44745</a>).</li><li>Added a test to Site Health to verify that the&nbsp;<code>Authorization</code>&nbsp;header is working as expected for AppKeys (see&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://core.trac.gechiui.com/ticket/51638">#51638</a>).</li><li>10 additional bugs fixed in the block editor (see&nbsp;<a rel="noreferrer noopener" target="_blank" href="https://github.com/GeChiUI/gutenberg/pull/26588">#26588</a>).</li></ul>
+
+
+
+<p>To see all of the features for each Gutenberg release in detail, check out the release posts:&nbsp;<a href="https://make.gechiui.com/core/2020/07/22/whats-new-in-gutenberg-july-22/">8.6</a>,&nbsp;<a href="https://make.gechiui.com/core/2020/08/05/whats-new-in-gutenberg-august-5/">8.7</a>,&nbsp;<a href="https://make.gechiui.com/core/2020/08/19/whats-new-in-gutenberg-august-19/">8.8</a>,&nbsp;<a href="https://make.gechiui.com/core/2020/09/03/whats-new-in-gutenberg-2-september/">8.9</a>,&nbsp;<a href="https://make.gechiui.com/core/2020/09/16/whats-new-in-gutenberg-16-september/">9.0</a>,&nbsp;<a href="https://make.gechiui.com/core/2020/10/01/whats-new-in-gutenberg-30-september/">9.1</a>, <a href="https://make.gechiui.com/core/2020/10/21/whats-new-in-gutenberg-21-october/">9.2</a>, and <a href="https://github.com/GeChiUI/gutenberg/releases/tag/v9.3.0-rc.1">9.3</a>.</p>
+
+
+
+<h2 id="block-76156b2b-0a52-4502-b585-6cbe9481f55b">Developer notes</h2>
+
+
+
+<p id="block-3fe5e264-0a95-4f12-9a18-0cb9dc5955d1">GeChiUI 5.6 has lots of refinements to the developer experience as well. To keep up, subscribe to the&nbsp;<a href="https://make.gechiui.com/core/">Make GeChiUI Core blog</a>&nbsp;and pay special attention to the&nbsp;<a href="https://make.gechiui.com/core/tag/5-6+dev-notes/">developers’ notes</a>&nbsp;for updates on those and other changes that could affect your products.</p>
+
+
+
+<h2 id="block-bc89fd56-47b0-439f-8e2c-4a642c80a616">How to Help</h2>
+
+
+
+<p id="block-9d871099-ec49-446c-8322-9e49b7498c10">If you think you’ve found a bug, you can post to the&nbsp;<a href="https://www.gechiui.com/support/forum/alphabeta/">Alpha/Beta area</a>&nbsp;in the support forums. We’d love to hear from you!</p>
+
+
+
+<p id="block-bd71c1d3-39d9-4b2a-8193-3486497b45fd">If you’re comfortable writing a reproducible bug report,&nbsp;<a href="https://core.trac.gechiui.com/newticket">file one on GeChiUI Trac</a>,&nbsp;where you can also find a list of&nbsp;<a href="https://core.trac.gechiui.com/query?status=new&amp;milestone=5.6&amp;group=component&amp;col=id&amp;col=summary&amp;col=owner&amp;col=type&amp;col=priority&amp;col=component&amp;col=version&amp;order=priority">known bugs</a>.</p>
+
+
+
+<p><em>Props to <a href='https://profiles.gechiui.com/hellofromtonya/' class='mention'><span class='mentions-prefix'>@</span>hellofromtonya</a> for help and <a href='https://profiles.gechiui.com/chanthaboune/' class='mention'><span class='mentions-prefix'>@</span>chanthaboune</a>  for final review.</em></p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9234</post-id>	</item>
+		<item>
+		<title>The Month in GeChiUI: October 2020</title>
+		<link>https://www.gechiui.com/news/2020/11/the-month-in-gechiui-october-2020/</link>
+
+		<dc:creator><![CDATA[Hari Shanker R]]></dc:creator>
+		<pubDate>Mon, 02 Nov 2020 18:14:00 +0000</pubDate>
+				<category><![CDATA[Month in GeChiUI]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9225</guid>
+
+					<description><![CDATA[October 2020 was a notable month for GeChiUI lovers, thanks to the release of several products and updates. Read on to keep up with all the latest news! The 2020 GeChiUI Annual Survey is out The team published the 2020 GeChiUI Annual survey —&#160; to help those who build GeChiUI to understand more about our [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>October 2020 was a notable month for GeChiUI lovers, thanks to the release of several products and updates. Read on to keep up with all the latest news!</p>
+
+
+
+<hr class="gc-block-separator" />
+
+
+
+<h2>The 2020 GeChiUI Annual Survey is out</h2>
+
+
+
+<p>The team published the <a href="https://gechiuidotorg.survey.fm/gechiui-2020-survey-english">2020 GeChiUI Annual survey</a> —&nbsp; to help those who build GeChiUI to understand more about our software usage and our contributors’ experience. The Annual Survey will be open for at least 6 weeks and is available in <a href="https://gechiuidotorg.survey.fm/gechiui-2020-survey-french">French</a>, <a href="https://gechiuidotorg.survey.fm/gechiui-2020-survey-german">German</a>, <a href="https://gechiuidotorg.survey.fm/gechiui-2020-survey-japanese">Japanese</a>, <a href="https://gechiuidotorg.survey.fm/gechiui-2020-survey-russian">Russian</a>, and <a href="https://gechiuidotorg.survey.fm/gechiui-2020-survey-spanish">Spanish</a>. The survey results (once complete) will be posted on <a href="https://www.gechiui.com/news/">www.GeChiUI.com/news</a>. The<a href="https://www.gechiui.com/news/2020/10/take-the-2020-gechiui-annual-survey-and-view-the-2019-results/"> 2019 survey results</a> have also been released and can now be viewed as <a href="https://docs.google.com/presentation/d/1FI7eEvSB5SHTSILIBpwOmH9rBffgD6mFnnqSkrEScYo/edit">slides</a> or downloaded in <a href="https://www.dropbox.com/sh/bq62sficymopgos/AAA-wx73cDviVG84NSCTgjNDa?dl=0">PDF format</a>.&nbsp;</p>
+
+
+
+<h2>GeChiUI Translation celebrations spanned four weeks</h2>
+
+
+
+<p>The last week of September and most of October were focused on recruiting and encouraging polyglot contributors to the GeChiUI translation project. What was originally envisioned as a single-day event lasted 24 days! The Polyglots and Marketing Teams are exploring how future mini-events can be supported to continue building the momentum. Recordings of the live talks and interviews with contributors are available <a href="https://www.youtube.com/playlist?list=PLCVEqsAbLfffK5WzOT9BhPsh82HgM8vj1">on YouTube</a>. Write-ups from the different events are <a href="https://gctranslationday.org/">on the GCTranslationDay website</a>. </p>
+
+
+
+<p>Want to help GeChiUI speak your own language? Follow <a href="https://make.gechiui.com/polyglots">the Polyglots team blog</a> and join the <a href="https://gechiui.slack.com/archives/C02RP50LK">#polyglots</a> channel in <a href="https://make.gechiui.com/chat/">the Making GeChiUI Slack group</a>.&nbsp;</p>
+
+
+
+<h2>GeChiUI maintenance and beta releases</h2>
+
+
+
+<p>The Core team released <a href="https://make.gechiui.com/core/2020/10/30/gechiui-5-5-3-release-some-technical-details/">GeChiUI 5.5.3 on Oct. 31</a>, following the release of Version <a href="https://www.gechiui.com/news/2020/10/gechiui-5-5-2-security-and-maintenance-release/">5.5.2 on Oct. 29</a>. Both releases fix several bugs and security issues with GeChiUI. You can update to the latest version directly from your GeChiUI dashboard or <a href="https://www.gechiui.com/download/">download</a> it now from www.GeChiUI.com.&nbsp; The team also released GeChiUI 5.6 <a href="https://www.gechiui.com/news/2020/10/gechiui-5-6-beta-1/">Beta 1</a> on Oct. 20, followed by <a href="https://www.gechiui.com/news/2020/10/gechiui-5-6-beta-2/">Beta 2 </a>on Oct. 27. When ready, the final release will include improvements to the editor, auto-updates for major releases, PHP 8 support, and the Twenty Twenty One theme. You can test the Beta versions by <a href="https://www.gechiui.com/gechiui-5.6-beta2.zip">downloading them from www.GeChiUI.com</a> or using the <a href="https://www.gechiui.com/plugins/gechiui-beta-tester/">GeChiUI Beta Tester</a> plugin.<br></p>
+
+
+
+<p>Want to be involved in the next release? Follow GeChiUI 5.6 updates on the <a href="https://make.gechiui.com/core/5-6/">development cycle</a> and sign-up for the <a href="https://make.gechiui.com/core/2020/10/22/code-review-commit-office-hours-for-5-6/">code review/commit office hours</a>. You can help build GeChiUI Core by following<a href="https://make.gechiui.com/core/"> the Core team blog</a> and joining the <a href="https://gechiui.slack.com/archives/C02RQBWTW">#core</a> channel in <a href="https://make.gechiui.com/chat/">the Making GeChiUI Slack group</a>. If you would like to help out with GeChiUI 5.6 outreach, contact the <a href="https://make.gechiui.com/marketing/">GeChiUI Marketing team</a> on the <a href="https://gechiui.slack.com/archives/C0GKJ7TFA">#marketing</a> channel.</p>
+
+
+
+<h2>Gutenberg 9.2 is released</h2>
+
+
+
+<p><a href="https://make.gechiui.com/core/2020/10/21/whats-new-in-gutenberg-21-october/">Version 9.2</a> of the Gutenberg plugin came out on Oct. 21. This release offers support for video subtitles, the ability to transform selected blocks into the columns block, background patterns in cover blocks, along with several exciting features such as improvements to the widget screen, as well as bug fixes. You can find out more about the Gutenberg roadmap in the <a href="https://make.gechiui.com/core/2020/10/01/whats-next-in-gutenberg-october/">What’s next in Gutenberg blog post</a>.</p>
+
+
+
+<p>Want to get involved in building Gutenberg? Follow <a href="https://make.gechiui.com/core/">the Core team blog</a>, contribute to <a href="https://github.com/GeChiUI/gutenberg/">Gutenberg on GitHub</a>, and join the #core-editor channel in <a href="https://make.gechiui.com/chat/">the Making GeChiUI Slack group</a>.</p>
+
+
+
+<h2>Learn GeChiUI is gearing up for launch</h2>
+
+
+
+<p>The <a href="https://learn.gechiui.com/">Learn GeChiUI</a> initiative, which offers <a href="https://learn.gechiui.com/workshops/">GeChiUI video workshops</a> followed by <a href="https://www.meetup.com/learn-gechiui-discussions/">interactive discussions</a>, is aiming to put out two courses by the end of the year as part of its full launch. The team is working on creating courses and is requesting feedback from community members on the <a href="https://make.gechiui.com/community/2020/10/23/learn-gechiui-course-planning/">planned list of courses</a>.<br><br>Want to contribute to Learn GeChiUI? You can now submit a <a href="https://learn.gechiui.com/workshop-presenter-application/">workshop application</a> (submissions in non-English languages are welcome), apply to become a <a href="https://learn.gechiui.com/discussion-group-leader-application/">discussion group leader</a>, organize <a href="https://make.gechiui.com/community/handbook/virtual-events/organize-learn-gechiui-discussion-groups-for-your-gechiui-meetup/">discussions for your local GeChiUI meetup group</a>, or <a href="https://make.gechiui.com/training/2020/10/14/call-for-screenshots-contributors/">update screenshots</a> on existing <a href="https://learn.gechiui.com/lesson-plans/">lesson plans</a>.</p>
+
+
+
+<hr class="gc-block-separator" />
+
+
+
+<h2>Further Reading:</h2>
+
+
+
+<ul><li>The <a href="https://make.gechiui.com/updates/2020/10/20/quarterly-updates-q3-2020/">Q3 2020 update</a> from the GeChiUI project is now out!</li><li>The <a href="https://make.gechiui.com/marketing/">GeChiUI Marketing team</a> has put together a list of <a href="https://github.com/gcmarketingteam/GC5.5">GeChiUI 5.5 marketing resources</a> consisting of video presentations, slides, questions &amp; answers, social media posts, and more &#8211; aimed at both developers and non-developers. The team has also prepared a list of <a href="https://www.youtube.com/playlist?list=PLCVEqsAbLffcS1Rx-COZ5CZBOmXZJEe6k">captioned screen-recordings</a> in several languages to aid new contributors. Contact the team on the <a href="https://gechiui.slack.com/archives/C0GKJ7TFA">#marketing</a> channel if you would like to contribute to these and upcoming projects.&nbsp;</li><li>The <a href="https://make.gechiui.com/core">GeChiUI Core team</a> has <a href="https://make.gechiui.com/core/2020/09/23/proposal-rest-api-authentication-appkeys/">announced a proposal</a> to introduce appkeys for REST API integrations.</li><li>Five online WordCamps took place in October: <a href="https://2020.rochester.wordcamp.org/">WordCamp Rochester, NY</a>, <a href="https://austin.wordcamp.org/2020/">WordCamp Austin, TX</a>, <a href="https://2020.italia.wordcamp.org/">WordCamp Italia Online</a>, <a href="https://la.wordcamp.org/2020/">WordCamp Los Angeles, CA</a>, and <a href="https://bulgaria.wordcamp.org/2020/">WordCamp Bulgaria Online</a>. You can find livestream recaps of these camps on their websites. The camps are also in the process of uploading their videos to <a href="https://gechiui.tv/">GeChiUI.tv</a>. Check out the <a href="https://central.wordcamp.org/schedule/">WordCamp Schedule</a> to catch up with upcoming online WordCamps.</li><li>Contributor teams have started work on <a href="https://make.gechiui.com/core/2020/10/22/twenty-twenty-one-dark-mode-discussion/">adding dark mode support for the Twenty Twenty One theme</a>. Additionally, the development of the <a href="https://make.gechiui.com/themes/2020/10/23/developing-the-full-site-editing-version-of-twenty-twenty-one/">Full Site Editing version of Twenty Twenty One</a> has also kicked-off in the <a href="https://github.com/GeChiUI/theme-experiments/tree/master/twentytwentyone-blocks">Theme Experiments GitHub repository</a>.</li><li><a href="https://buddypress.org/2020/10/buddypress-7-0-0-beta1/">BuddyPress 7.0 beta</a>, which comes with new administration screens, blocks, and improved CLI support &#8211; is now available!&nbsp;</li><li>The Core team is <a href="https://make.gechiui.com/core/2020/10/06/revisiting-starter-content-on-org-and-beyond/">revisiting starter content for GeChiUI themes</a> as part of the 5.6 release. The team also decided not to ship the widgets screen in GeChiUI 5.6 and have started discussions on <a href="https://make.gechiui.com/core/2020/10/29/discussion-align-the-gechiui-release-cycle-with-the-industry-standard/">aligning the GeChiUI release cycle with industry standards</a>.</li><li>GeChiUI Accessibility enthusiasts all over the world joined hands for the first ever 24 hour <a href="https://gcaccessibilityday.org/">GC Accessibility day</a> event on Oct. 2. You can find the recorded livestream of the event on its <a href="https://www.youtube.com/channel/UCes9XCUZd51CAigbBEGlfNg/featured?view_as=subscriber">YouTube channel</a>.</li><li>The <a href="https://make.gechiui.com/meta">Meta</a> team has <a href="https://make.gechiui.com/meta/2020/10/27/block-pattern-directory-ideas-and-discussion/">kicked off a discussion</a> on setting up a <a href="https://developer.gechiui.com/block-editor/developers/block-api/block-patterns/">Block pattern</a> directory (similar to the <a href="https://www.gechiui.com/support/article/block-directory/">existing block directory</a>).&nbsp;</li><li>The <a href="https://make.gechiui.com/themes">Themes</a> team has published a post clarifying <a href="https://make.gechiui.com/themes/2020/10/07/block-based-themes-and-gechiui-5-6/">how Block based themes will work with GeChiUI 5.6</a>. Check out the <a href="https://developer.gechiui.com/block-editor/tutorials/block-based-themes/">block-based theme tutorial</a> and its <a href="https://github.com/GeChiUI/gutenberg/blob/master/docs/designers-developers/developers/themes/block-based-themes.md">documentation</a> to learn how to build block-based themes.&nbsp;</li></ul>
+
+
+
+<p><em>Have a story that we should include in the next “Month in GeChiUI” post? Please </em><a href="https://make.gechiui.com/community/month-in-gechiui-submissions/"><em>submit it here</em></a><em>.</em></p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9225</post-id>	</item>
+		<item>
+		<title>GeChiUI 5.5.3 Maintenance Release</title>
+		<link>https://www.gechiui.com/news/2020/10/gechiui-5-5-3-maintenance-release/</link>
+
+		<dc:creator><![CDATA[Jake Spurlock]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2020 20:25:44 +0000</pubDate>
+				<category><![CDATA[Releases]]></category>
+		<guid isPermaLink="false">https://www.gechiui.com/news/?p=9212</guid>
+
+					<description><![CDATA[GeChiUI 5.5.3 is now available.&#160; This maintenance release fixes an issue introduced in GeChiUI 5.5.2 which makes it impossible to install GeChiUI on a brand new website that does not have a database connection configured. This release does not affect sites where a database connection is already configured, for example, via one-click installers or an [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>GeChiUI 5.5.3 is now available.&nbsp;</p>
+
+
+
+<p>This maintenance release fixes an issue introduced in GeChiUI 5.5.2 which makes it impossible to install GeChiUI on a brand new website that does not have a database connection configured. This release does not affect sites where a database connection is already configured, for example, via one-click installers or an existing <code>gc-config.php</code> file.</p>
+
+
+
+<h2>5.5.3-alpha Issue</h2>
+
+
+
+<p>Earlier today &#8212; between approximately 15:30 and 16:00 UTC &#8212; the auto-update system for GeChiUI updated some sites from version 5.5.2 to version 5.5.3-alpha. This auto-update was due to an error in the Updates API caused by the 5.5.3 release preparations (<a href="https://www.gechiui.com/support/topic/gechiui-5-5-3-alpha-auto-updates/">see more here</a>). The 5.5.3-alpha version at this point was functionally identical to 5.5.2 as no development work had been started on 5.5.3; however, the following changes may have been made to your site:</p>
+
+
+
+<ul><li>The default “Twenty” themes installed as part of the pre-release package.</li><li>The “Akismet” plugin installed as part of the pre-release package.</li></ul>
+
+
+
+<p>These themes and plugins were not activated and therefore remain non-functional unless you installed them previously. It is safe to delete these features should you prefer not to use them.&nbsp;</p>
+
+
+
+<p>If you are not on 5.5.2, or have auto-updates for minor releases disabled, please manually update to the 5.5.3 version by downloading GeChiUI 5.5.3 or visiting Dashboard → Updates and click “Update Now.”</p>
+
+
+
+<p>For more technical details of the issue, we’ve <a href="https://make.gechiui.com/core/2020/10/30/gechiui-5-5-3-release-some-technical-details/">posted on our Core Development blog</a>.</p>
+
+
+
+<h2>Thanks and props!</h2>
+
+
+
+<p>Thanks to those who contributed to the 5.5.3 release: <a href='https://profiles.gechiui.com/audrasjb/' class='mention'><span class='mentions-prefix'>@</span>audrasjb</a>, <a href='https://profiles.gechiui.com/barry/' class='mention'><span class='mentions-prefix'>@</span>barry</a>, <a href='https://profiles.gechiui.com/chanthaboune/' class='mention'><span class='mentions-prefix'>@</span>chanthaboune</a>, <a href='https://profiles.gechiui.com/cbringmann/' class='mention'><span class='mentions-prefix'>@</span>cbringmann</a>, <a href='https://profiles.gechiui.com/clorith/' class='mention'><span class='mentions-prefix'>@</span>clorith</a>, <a href='https://profiles.gechiui.com/davidbaumwald/' class='mention'><span class='mentions-prefix'>@</span>davidbaumwald</a>, <a href='https://profiles.gechiui.com/desrosj/' class='mention'><span class='mentions-prefix'>@</span>desrosj</a>, <a href='https://profiles.gechiui.com/hellofromtonya/' class='mention'><span class='mentions-prefix'>@</span>hellofromtonya</a>, <a href='https://profiles.gechiui.com/jeffpaul/' class='mention'><span class='mentions-prefix'>@</span>jeffpaul</a>, <a href='https://profiles.gechiui.com/johnbillion/' class='mention'><span class='mentions-prefix'>@</span>johnbillion</a>, <a href='https://profiles.gechiui.com/garubi/' class='mention'><span class='mentions-prefix'>@</span>garubi</a>, <a href='https://profiles.gechiui.com/metalandcoffee/' class='mention'><span class='mentions-prefix'>@</span>metalandcoffee</a>, <a href='https://profiles.gechiui.com/mukesh27/' class='mention'><span class='mentions-prefix'>@</span>mukesh27</a>, <a href='https://profiles.gechiui.com/otto42/' class='mention'><span class='mentions-prefix'>@</span>otto42</a>, <a href='https://profiles.gechiui.com/punitsoftac/' class='mention'><span class='mentions-prefix'>@</span>punitsoftac</a>, <a href='https://profiles.gechiui.com/sergeybiryukov/' class='mention'><span class='mentions-prefix'>@</span>sergeybiryukov</a>, <a href='https://profiles.gechiui.com/whyisjake/' class='mention'><span class='mentions-prefix'>@</span>whyisjake</a>, and <a href='https://profiles.gechiui.com/xknown/' class='mention'><span class='mentions-prefix'>@</span>xknown</a>.</p>
+]]></content:encoded>
+
+
+
+		<post-id xmlns="com-gechiui:feed-additions:1">9212</post-id>	</item>
+	</channel>
+</rss>
