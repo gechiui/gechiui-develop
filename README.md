@@ -30,8 +30,8 @@ GeChiUI是一个基于PHP、MySQL和JavaScript的项目，它使用Node作为Jav
 
 #### 首次启动开发环境
 
-使用`https://github.com/gechiui/gechiui-develop.git`克隆当前存储库,然后在终端中移动到存储库文件夹`cd gechiui-develop`,并运行以下命令：
-
+使用国内`https://gitee.com/gechiui/gechiui-develop.git` 或国际`https://github.com/gechiui/gechiui-develop.git`克隆当前存储库,然后在终端中移动到存储库文件夹`cd gechiui-develop`,并运行以下命令：
+国内可以使用`https://gitee.com/gechiui/gechiui-develop.git`
 ```
 npm install
 npm run build:dev
