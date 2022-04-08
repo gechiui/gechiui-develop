@@ -355,7 +355,7 @@ function network_step1( $errors = false ) {
 				<th scope='row'><label for="sitename"><?php esc_html_e( '网络标题' ); ?></label></th>
 				<td>
 					<input name='sitename' id='sitename' type='text' size='45' value='<?php echo esc_attr( $site_name ); ?>' />
-					<p class="描述">
+					<p class="description">
 						<?php _e( '您想怎么称呼您的站点网络？' ); ?>
 					</p>
 				</td>
@@ -364,7 +364,7 @@ function network_step1( $errors = false ) {
 				<th scope='row'><label for="email"><?php esc_html_e( '网络管理员邮箱' ); ?></label></th>
 				<td>
 					<input name='email' id='email' type='text' size='45' value='<?php echo esc_attr( $admin_email ); ?>' />
-					<p class="描述">
+					<p class="description">
 						<?php _e( '您的邮箱地址。' ); ?>
 					</p>
 				</td>
